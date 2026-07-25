@@ -1,0 +1,1883 @@
+{
+  "studios": [
+    {
+      "id": "casa_onze_cdmx",
+      "name": "Casa Onze CDMX",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 146,
+      "brand_slug": "cdmx",
+      "origin": "https://casaonze.mx",
+      "locations": [
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        270
+      ],
+      "active": true
+    },
+    {
+      "id": "bikla_santa_fe",
+      "name": "Bikla Santa Fe",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 210,
+      "brand_slug": "bikla-1",
+      "origin": "https://buq.partners",
+      "locations": [
+        355
+      ],
+      "active": true
+    },
+    {
+      "id": "commando_altavista",
+      "name": "Commando Altavista",
+      "platform": "marianatek",
+      "city": "CDMX",
+      "namespace": "commandostudio",
+      "location_id": 48768,
+      "active": true
+    },
+    {
+      "id": "zuda_lilas",
+      "name": "Zuda Lilas",
+      "platform": "marianatek",
+      "city": "CDMX",
+      "namespace": "zuda",
+      "location_id": 48718,
+      "active": true
+    },
+    {
+      "id": "zuda_prado_norte",
+      "name": "Zuda Prado Norte",
+      "platform": "marianatek",
+      "city": "CDMX",
+      "namespace": "zuda",
+      "location_id": 48717,
+      "active": true
+    },
+    {
+      "id": "zuda_artz",
+      "name": "Zuda Artz Pedregal",
+      "platform": "marianatek",
+      "city": "CDMX",
+      "namespace": "zuda",
+      "location_id": 48719,
+      "active": true
+    },
+    {
+      "id": "siclo_artz",
+      "name": "Síclo Artz",
+      "platform": "siclo",
+      "city": "CDMX",
+      "location_id": 603986,
+      "active": true
+    },
+    {
+      "id": "buq_pwy",
+      "name": "PWY",
+      "platform": "buq",
+      "city": null,
+      "company_id": 218,
+      "brand_slug": "pwy",
+      "origin": "https://buq.partners",
+      "locations": [
+        369
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_kick-boxing-studio",
+      "name": "Kick Boxing Studio",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 217,
+      "brand_slug": "kick-boxing-studio",
+      "origin": "https://buq.partners",
+      "locations": [
+        367
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_flow",
+      "name": "Flow",
+      "platform": "buq",
+      "city": "Puebla",
+      "company_id": 216,
+      "brand_slug": "flow",
+      "origin": "https://buq.partners",
+      "locations": [
+        366
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_solarium",
+      "name": "Solarium",
+      "platform": "buq",
+      "city": null,
+      "company_id": 215,
+      "brand_slug": "solarium",
+      "origin": "https://buq.partners",
+      "locations": [
+        363,
+        364,
+        365
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_hoc",
+      "name": "HOC",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 213,
+      "brand_slug": "hoc",
+      "origin": "https://buq.partners",
+      "locations": [
+        358
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_stanza-pilates",
+      "name": "Stanza Pilates",
+      "platform": "buq",
+      "city": "Estado de México",
+      "company_id": 212,
+      "brand_slug": "stanza-pilates",
+      "origin": "https://buq.partners",
+      "locations": [
+        357
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_focus",
+      "name": "Focus",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 211,
+      "brand_slug": "focus",
+      "origin": "https://buq.partners",
+      "locations": [
+        356
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_drifter",
+      "name": "Drifter",
+      "platform": "buq",
+      "city": null,
+      "company_id": 207,
+      "brand_slug": "drifter",
+      "origin": "https://buq.partners",
+      "locations": [
+        346,
+        347
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_kontrast",
+      "name": "Kontrast",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 206,
+      "brand_slug": "kontrast",
+      "origin": "https://buq.partners",
+      "locations": [
+        345
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_osmos",
+      "name": "Osmos",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 205,
+      "brand_slug": "osmos",
+      "origin": "https://buq.partners",
+      "locations": [
+        344
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_cardio-sculpt",
+      "name": "cardio & sculpt",
+      "platform": "buq",
+      "city": "Edomex",
+      "company_id": 203,
+      "brand_slug": "cardio-sculpt",
+      "origin": "https://buq.partners",
+      "locations": [
+        330,
+        331
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_eight-flow",
+      "name": "Eight Flow",
+      "platform": "buq",
+      "city": null,
+      "company_id": 202,
+      "brand_slug": "eight-flow",
+      "origin": "https://buq.partners",
+      "locations": [
+        329
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_move-move",
+      "name": "Mov Mov",
+      "platform": "buq",
+      "city": null,
+      "company_id": 201,
+      "brand_slug": "move-move",
+      "origin": "https://buq.partners",
+      "locations": [
+        328
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_aura-33-studio",
+      "name": "aura 33 studio",
+      "platform": "buq",
+      "city": null,
+      "company_id": 200,
+      "brand_slug": "aura-33-studio",
+      "origin": "https://buq.partners",
+      "locations": [
+        327
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_method-studio",
+      "name": "Method Studio",
+      "platform": "buq",
+      "city": "México",
+      "company_id": 199,
+      "brand_slug": "method-studio",
+      "origin": "https://buq.partners",
+      "locations": [
+        326
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_the-klan",
+      "name": "The Klan",
+      "platform": "buq",
+      "city": null,
+      "company_id": 198,
+      "brand_slug": "the-klan",
+      "origin": "https://buq.partners",
+      "locations": [
+        324,
+        325
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_beat-to-barre",
+      "name": "Beat To Barre",
+      "platform": "buq",
+      "city": null,
+      "company_id": 197,
+      "brand_slug": "beat-to-barre",
+      "origin": "https://buq.partners",
+      "locations": [
+        322
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_the-pause",
+      "name": "The Pause Before",
+      "platform": "buq",
+      "city": null,
+      "company_id": 196,
+      "brand_slug": "the-pause",
+      "origin": "https://buq.partners",
+      "locations": [
+        321
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_studio-33",
+      "name": "Studio 33",
+      "platform": "buq",
+      "city": "Ciudad de México",
+      "company_id": 195,
+      "brand_slug": "studio-33",
+      "origin": "https://buq.partners",
+      "locations": [
+        319
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_cdmx-1",
+      "name": "CDMX",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 194,
+      "brand_slug": "cdmx-1",
+      "origin": "https://buq.partners",
+      "locations": [
+        318
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_made-in-sweat",
+      "name": "Made In Sweat",
+      "platform": "buq",
+      "city": null,
+      "company_id": 193,
+      "brand_slug": "made-in-sweat",
+      "origin": "https://buq.partners",
+      "locations": [
+        317
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_hpc-san-angel",
+      "name": "HPC SAN Ángel",
+      "platform": "buq",
+      "city": "Álvaro Obregón",
+      "company_id": 157,
+      "brand_slug": "hpc-san-angel",
+      "origin": "https://buq.partners",
+      "locations": [
+        315
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_pylora",
+      "name": "Pylora",
+      "platform": "buq",
+      "city": null,
+      "company_id": 192,
+      "brand_slug": "pylora",
+      "origin": "https://buq.partners",
+      "locations": [
+        313
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_misogi-wellness",
+      "name": "Misogi Wellness",
+      "platform": "buq",
+      "city": null,
+      "company_id": 191,
+      "brand_slug": "misogi-wellness",
+      "origin": "https://buq.partners",
+      "locations": [
+        312
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_bunker",
+      "name": "bunker",
+      "platform": "buq",
+      "city": null,
+      "company_id": 190,
+      "brand_slug": "bunker",
+      "origin": "https://buq.partners",
+      "locations": [
+        309,
+        310
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_rise",
+      "name": "RISE",
+      "platform": "buq",
+      "city": null,
+      "company_id": 189,
+      "brand_slug": "rise",
+      "origin": "https://buq.partners",
+      "locations": [
+        308
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_boden",
+      "name": "Boden",
+      "platform": "buq",
+      "city": null,
+      "company_id": 188,
+      "brand_slug": "boden",
+      "origin": "https://buq.partners",
+      "locations": [
+        307
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_prime-studio",
+      "name": "Prime Studio",
+      "platform": "buq",
+      "city": null,
+      "company_id": 187,
+      "brand_slug": "prime-studio",
+      "origin": "https://buq.partners",
+      "locations": [
+        306
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_human-prime-lab",
+      "name": "Human Prime Lab",
+      "platform": "buq",
+      "city": null,
+      "company_id": 186,
+      "brand_slug": "human-prime-lab",
+      "origin": "https://buq.partners",
+      "locations": [
+        305
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_plt-studio-cancun",
+      "name": "PLT Studio Cancún",
+      "platform": "buq",
+      "city": "cancun",
+      "company_id": 185,
+      "brand_slug": "plt-studio-cancun",
+      "origin": "https://buq.partners",
+      "locations": [
+        304
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_plt-studio-polanco",
+      "name": "PLT Studio Polanco",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 185,
+      "brand_slug": "plt-studio-polanco",
+      "origin": "https://buq.partners",
+      "locations": [
+        303
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_plt-studio-bosques",
+      "name": "PLT Studio Bosques",
+      "platform": "buq",
+      "city": "Cuajimalpa de Morelos",
+      "company_id": 185,
+      "brand_slug": "plt-studio-bosques",
+      "origin": "https://buq.partners",
+      "locations": [
+        302
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_reform-zona-esmeralda",
+      "name": "Reform Zona Esmeralda",
+      "platform": "buq",
+      "city": null,
+      "company_id": 162,
+      "brand_slug": "reform-zona-esmeralda",
+      "origin": "https://buq.partners",
+      "locations": [
+        301
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_san-jose-insurgentes",
+      "name": "San José Insurgentes",
+      "platform": "buq",
+      "city": null,
+      "company_id": 176,
+      "brand_slug": "san-jose-insurgentes",
+      "origin": "https://buq.partners",
+      "locations": [
+        300
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_blast",
+      "name": "Blast",
+      "platform": "buq",
+      "city": null,
+      "company_id": 183,
+      "brand_slug": "blast",
+      "origin": "https://buq.partners",
+      "locations": [
+        299
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_hybrix",
+      "name": "Hybrix",
+      "platform": "buq",
+      "city": null,
+      "company_id": 181,
+      "brand_slug": "hybrix",
+      "origin": "https://buq.partners",
+      "locations": [
+        297
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_mom-nest",
+      "name": "Mom Nest",
+      "platform": "buq",
+      "city": null,
+      "company_id": 180,
+      "brand_slug": "mom-nest",
+      "origin": "https://buq.partners",
+      "locations": [
+        296
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_estudio-1",
+      "name": "Estudio 1",
+      "platform": "buq",
+      "city": null,
+      "company_id": 179,
+      "brand_slug": "estudio-1",
+      "origin": "https://buq.partners",
+      "locations": [
+        342,
+        368,
+        362,
+        360,
+        359,
+        352,
+        351,
+        350,
+        349,
+        343,
+        295,
+        341,
+        340,
+        339,
+        338
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_rayo",
+      "name": "Rayo",
+      "platform": "buq",
+      "city": "cdmx",
+      "company_id": 175,
+      "brand_slug": "rayo",
+      "origin": "https://buq.partners",
+      "locations": [
+        294
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_primera-posicion",
+      "name": "Roma Norte Primera Posición",
+      "platform": "buq",
+      "city": null,
+      "company_id": 176,
+      "brand_slug": "primera-posicion",
+      "origin": "https://buq.partners",
+      "locations": [
+        292
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_three-fit",
+      "name": "Three Fit",
+      "platform": "buq",
+      "city": null,
+      "company_id": 178,
+      "brand_slug": "three-fit",
+      "origin": "https://buq.partners",
+      "locations": [
+        291
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_souls",
+      "name": "Souls",
+      "platform": "buq",
+      "city": "Ciudad de Mexico",
+      "company_id": 177,
+      "brand_slug": "souls",
+      "origin": "https://buq.partners",
+      "locations": [
+        290
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_sunset-studio-metepec",
+      "name": "Metepec",
+      "platform": "buq",
+      "city": null,
+      "company_id": 134,
+      "brand_slug": "sunset-studio-metepec",
+      "origin": "https://buq.partners",
+      "locations": [
+        289
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_every-one-yoga",
+      "name": "Everyone Yoga",
+      "platform": "buq",
+      "city": null,
+      "company_id": 174,
+      "brand_slug": "every-one-yoga",
+      "origin": "https://buq.partners",
+      "locations": [
+        288
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_drip-fit",
+      "name": "Drip Fit",
+      "platform": "buq",
+      "city": null,
+      "company_id": 173,
+      "brand_slug": "drip-fit",
+      "origin": "https://buq.partners",
+      "locations": [
+        286
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_athom",
+      "name": "Áthom",
+      "platform": "buq",
+      "city": null,
+      "company_id": 172,
+      "brand_slug": "athom",
+      "origin": "https://buq.partners",
+      "locations": [
+        285
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_atlic",
+      "name": "Atlic",
+      "platform": "buq",
+      "city": "Miguel Hidalgo",
+      "company_id": 171,
+      "brand_slug": "atlic",
+      "origin": "https://buq.partners",
+      "locations": [
+        284
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_zoma-method",
+      "name": "Zoma Method",
+      "platform": "buq",
+      "city": "TOLUCA",
+      "company_id": 170,
+      "brand_slug": "zoma-method",
+      "origin": "https://buq.partners",
+      "locations": [
+        283
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_nomada-pilates",
+      "name": "Nómada Pilates",
+      "platform": "buq",
+      "city": null,
+      "company_id": 169,
+      "brand_slug": "nomada-pilates",
+      "origin": "https://buq.partners",
+      "locations": [
+        282
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_two-mind-body-1",
+      "name": "Two Mind + Body",
+      "platform": "buq",
+      "city": null,
+      "company_id": 168,
+      "brand_slug": "two-mind-body-1",
+      "origin": "https://buq.partners",
+      "locations": [
+        281
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_soul-studio-linda-vista",
+      "name": "Soul Studio Linda Vista",
+      "platform": "buq",
+      "city": "Gustavo A. Madero",
+      "company_id": 57,
+      "brand_slug": "soul-studio-linda-vista",
+      "origin": "https://buq.partners",
+      "locations": [
+        278
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_reform",
+      "name": "Reform Arboledas",
+      "platform": "buq",
+      "city": "Tlalnepantla Edo Mexico",
+      "company_id": 162,
+      "brand_slug": "reform",
+      "origin": "https://buq.partners",
+      "locations": [
+        275
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_las-aguilas",
+      "name": "Terra Barre Las aguilas",
+      "platform": "buq",
+      "city": null,
+      "company_id": 91,
+      "brand_slug": "las-aguilas",
+      "origin": "https://buq.partners",
+      "locations": [
+        274
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_santum",
+      "name": "Santum",
+      "platform": "buq",
+      "city": null,
+      "company_id": 161,
+      "brand_slug": "santum",
+      "origin": "https://buq.partners",
+      "locations": [
+        273
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_lun-studio",
+      "name": "Lūn Studio",
+      "platform": "buq",
+      "city": "Miguel Hidalgo",
+      "company_id": 160,
+      "brand_slug": "lun-studio",
+      "origin": "https://buq.partners",
+      "locations": [
+        272
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_my-flow-polanco",
+      "name": "My Flow Polanco",
+      "platform": "buq",
+      "city": "Polanco",
+      "company_id": 114,
+      "brand_slug": "my-flow-polanco",
+      "origin": "https://buq.partners",
+      "locations": [
+        267
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_espacio-garden",
+      "name": "Espacio Garden",
+      "platform": "buq",
+      "city": null,
+      "company_id": 158,
+      "brand_slug": "espacio-garden",
+      "origin": "https://buq.partners",
+      "locations": [
+        266
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_my-flow-lomas",
+      "name": "MyFlow Bosques",
+      "platform": "buq",
+      "city": null,
+      "company_id": 114,
+      "brand_slug": "my-flow-lomas",
+      "origin": "https://buq.partners",
+      "locations": [
+        265
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_performance-center",
+      "name": "HPC",
+      "platform": "buq",
+      "city": null,
+      "company_id": 157,
+      "brand_slug": "performance-center",
+      "origin": "https://buq.partners",
+      "locations": [
+        258
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_skip-studio",
+      "name": "Skip Studio",
+      "platform": "buq",
+      "city": null,
+      "company_id": 155,
+      "brand_slug": "skip-studio",
+      "origin": "https://buq.partners",
+      "locations": [
+        257
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_aura",
+      "name": "aura",
+      "platform": "buq",
+      "city": "Guadalajara",
+      "company_id": 153,
+      "brand_slug": "aura",
+      "origin": "https://buq.partners",
+      "locations": [
+        252
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_peak",
+      "name": "Peak",
+      "platform": "buq",
+      "city": null,
+      "company_id": 152,
+      "brand_slug": "peak",
+      "origin": "https://buq.partners",
+      "locations": [
+        251
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_ezencia-pilates",
+      "name": "Ezencia Pilates",
+      "platform": "buq",
+      "city": "OAXACA",
+      "company_id": 151,
+      "brand_slug": "ezencia-pilates",
+      "origin": "https://buq.partners",
+      "locations": [
+        250
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_frame-pilates-lab",
+      "name": "Frame Pilates Lab",
+      "platform": "buq",
+      "city": null,
+      "company_id": 148,
+      "brand_slug": "frame-pilates-lab",
+      "origin": "https://buq.partners",
+      "locations": [
+        246,
+        323
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_balancebodybarre",
+      "name": "BalanceBodyBarre",
+      "platform": "buq",
+      "city": null,
+      "company_id": 147,
+      "brand_slug": "balancebodybarre",
+      "origin": "https://buq.partners",
+      "locations": [
+        245
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_cathes-place",
+      "name": "Cathe´s Place",
+      "platform": "buq",
+      "city": null,
+      "company_id": 145,
+      "brand_slug": "cathes-place",
+      "origin": "https://buq.partners",
+      "locations": [
+        237,
+        238
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_buq-1",
+      "name": "Buq",
+      "platform": "buq",
+      "city": null,
+      "company_id": 143,
+      "brand_slug": "buq-1",
+      "origin": "https://buq.partners",
+      "locations": [
+        235
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_latitud-collective",
+      "name": "Latitud Collective",
+      "platform": "buq",
+      "city": "Metepec",
+      "company_id": 142,
+      "brand_slug": "latitud-collective",
+      "origin": "https://buq.partners",
+      "locations": [
+        234
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_empowerher",
+      "name": "EmpowerHer",
+      "platform": "buq",
+      "city": "Mexico",
+      "company_id": 141,
+      "brand_slug": "empowerher",
+      "origin": "https://buq.partners",
+      "locations": [
+        233
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_redo",
+      "name": "REDO",
+      "platform": "buq",
+      "city": null,
+      "company_id": 140,
+      "brand_slug": "redo",
+      "origin": "https://buq.partners",
+      "locations": [
+        232
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_turnout-studio",
+      "name": "Turnout Studio",
+      "platform": "buq",
+      "city": null,
+      "company_id": 139,
+      "brand_slug": "turnout-studio",
+      "origin": "https://buq.partners",
+      "locations": [
+        231
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_eleve-pilates",
+      "name": "Élevé Pilates",
+      "platform": "buq",
+      "city": null,
+      "company_id": 138,
+      "brand_slug": "eleve-pilates",
+      "origin": "https://buq.partners",
+      "locations": [
+        230
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_mara",
+      "name": "mara",
+      "platform": "buq",
+      "city": null,
+      "company_id": 137,
+      "brand_slug": "mara",
+      "origin": "https://buq.partners",
+      "locations": [
+        229
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_maple",
+      "name": "Maple",
+      "platform": "buq",
+      "city": null,
+      "company_id": 136,
+      "brand_slug": "maple",
+      "origin": "https://buq.partners",
+      "locations": [
+        228
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_beyond-fitness",
+      "name": "Beyond Fitness",
+      "platform": "buq",
+      "city": null,
+      "company_id": 135,
+      "brand_slug": "beyond-fitness",
+      "origin": "https://buq.partners",
+      "locations": [
+        227
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_sunset-studio",
+      "name": "Toluca",
+      "platform": "buq",
+      "city": null,
+      "company_id": 134,
+      "brand_slug": "sunset-studio",
+      "origin": "https://buq.partners",
+      "locations": [
+        226
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_fiit-room",
+      "name": "FITT ROOM",
+      "platform": "buq",
+      "city": null,
+      "company_id": 133,
+      "brand_slug": "fiit-room",
+      "origin": "https://buq.partners",
+      "locations": [
+        225
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_vicio",
+      "name": "Vicio",
+      "platform": "buq",
+      "city": null,
+      "company_id": 130,
+      "brand_slug": "vicio",
+      "origin": "https://buq.partners",
+      "locations": [
+        222
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_votion",
+      "name": "Votion",
+      "platform": "buq",
+      "city": null,
+      "company_id": 131,
+      "brand_slug": "votion",
+      "origin": "https://buq.partners",
+      "locations": [
+        221,
+        248
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_rodada-52",
+      "name": "Rodada 52",
+      "platform": "buq",
+      "city": null,
+      "company_id": 129,
+      "brand_slug": "rodada-52",
+      "origin": "https://buq.partners",
+      "locations": [
+        220
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_ole-by-adapta",
+      "name": "Ole by Adapta",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 126,
+      "brand_slug": "ole-by-adapta",
+      "origin": "https://buq.partners",
+      "locations": [
+        217,
+        255
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_zana-studio-barre-pilates",
+      "name": "Zänä Studio",
+      "platform": "buq",
+      "city": null,
+      "company_id": 123,
+      "brand_slug": "zana-studio-barre-pilates",
+      "origin": "https://buq.partners",
+      "locations": [
+        214
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_pink-jardin-balbuena",
+      "name": "Pink Jardin balbuena",
+      "platform": "buq",
+      "city": "Ciudad de México",
+      "company_id": 122,
+      "brand_slug": "pink-jardin-balbuena",
+      "origin": "https://buq.partners",
+      "locations": [
+        213
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_pink-studio",
+      "name": "Pink  Studio Santa maria La Rivera",
+      "platform": "buq",
+      "city": "Ciudad de México",
+      "company_id": 122,
+      "brand_slug": "pink-studio",
+      "origin": "https://buq.partners",
+      "locations": [
+        212
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_spacio-high-energy",
+      "name": "Spacio High Energy",
+      "platform": "buq",
+      "city": "Álvaro Obregón",
+      "company_id": 119,
+      "brand_slug": "spacio-high-energy",
+      "origin": "https://buq.partners",
+      "locations": [
+        209
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_nuqleo-studio",
+      "name": "Nuqore Studio",
+      "platform": "buq",
+      "city": null,
+      "company_id": 118,
+      "brand_slug": "nuqleo-studio",
+      "origin": "https://buq.partners",
+      "locations": [
+        208,
+        269
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_soul-estudio-masaryk",
+      "name": "Soul Studio Masaryk",
+      "platform": "buq",
+      "city": null,
+      "company_id": 57,
+      "brand_slug": "soul-estudio-masaryk",
+      "origin": "https://buq.partners",
+      "locations": [
+        206
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_tribu-fitness-center",
+      "name": "Tribu Fitness Center",
+      "platform": "buq",
+      "city": null,
+      "company_id": 117,
+      "brand_slug": "tribu-fitness-center",
+      "origin": "https://buq.partners",
+      "locations": [
+        205
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_a-pilates-cuerpo-y-mente",
+      "name": "A pilates",
+      "platform": "buq",
+      "city": "MEXICO",
+      "company_id": 115,
+      "brand_slug": "a-pilates-cuerpo-y-mente",
+      "origin": "https://buq.partners",
+      "locations": [
+        201
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_fitspin-cancun",
+      "name": "Fitspin Cancún",
+      "platform": "buq",
+      "city": null,
+      "company_id": 80,
+      "brand_slug": "fitspin-cancun",
+      "origin": "https://buq.partners",
+      "locations": [
+        200
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_myflow",
+      "name": "MyFlow Interlomas",
+      "platform": "buq",
+      "city": null,
+      "company_id": 114,
+      "brand_slug": "myflow",
+      "origin": "https://buq.partners",
+      "locations": [
+        199
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_balanco-wellnes",
+      "name": "Balanco Wellnes",
+      "platform": "buq",
+      "city": null,
+      "company_id": 113,
+      "brand_slug": "balanco-wellnes",
+      "origin": "https://buq.partners",
+      "locations": [
+        198
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_pi-lab",
+      "name": "Pi Lab",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 112,
+      "brand_slug": "pi-lab",
+      "origin": "https://buq.partners",
+      "locations": [
+        197
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_the-cult",
+      "name": "the cult",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 111,
+      "brand_slug": "the-cult",
+      "origin": "https://buq.partners",
+      "locations": [
+        195
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_athlex",
+      "name": "ATHLEX",
+      "platform": "buq",
+      "city": null,
+      "company_id": 110,
+      "brand_slug": "athlex",
+      "origin": "https://buq.partners",
+      "locations": [
+        194
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_bloom-pilates-club",
+      "name": "Bloom Pilates Club",
+      "platform": "buq",
+      "city": null,
+      "company_id": 109,
+      "brand_slug": "bloom-pilates-club",
+      "origin": "https://buq.partners",
+      "locations": [
+        193
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_one-indoor-studio",
+      "name": "One Indoor Studio",
+      "platform": "buq",
+      "city": null,
+      "company_id": 108,
+      "brand_slug": "one-indoor-studio",
+      "origin": "https://buq.partners",
+      "locations": [
+        191
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_mind-form",
+      "name": "Mindform",
+      "platform": "buq",
+      "city": null,
+      "company_id": 107,
+      "brand_slug": "mind-form",
+      "origin": "https://buq.partners",
+      "locations": [
+        190
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_blaze-method",
+      "name": "Blaze method",
+      "platform": "buq",
+      "city": "Ciudad de México",
+      "company_id": 103,
+      "brand_slug": "blaze-method",
+      "origin": "https://buq.partners",
+      "locations": [
+        179,
+        256
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_comalcalco-tecolutilla",
+      "name": "Sucursal Lerdo y Tecolutilla",
+      "platform": "buq",
+      "city": "Comalcalco",
+      "company_id": 102,
+      "brand_slug": "comalcalco-tecolutilla",
+      "origin": "https://buq.partners",
+      "locations": [
+        174,
+        175
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_alamilla-sport-fitness",
+      "name": "Matriz y paraiso",
+      "platform": "buq",
+      "city": "Comalcalco",
+      "company_id": 102,
+      "brand_slug": "alamilla-sport-fitness",
+      "origin": "https://buq.partners",
+      "locations": [
+        172,
+        173
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_commando-studio-gdl",
+      "name": "Commando Studio GDL",
+      "platform": "buq",
+      "city": null,
+      "company_id": 98,
+      "brand_slug": "commando-studio-gdl",
+      "origin": "https://buq.partners",
+      "locations": [
+        168,
+        169,
+        171
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_danzophrenia",
+      "name": "Danzophrenia",
+      "platform": "buq",
+      "city": "alvaro obregon",
+      "company_id": 101,
+      "brand_slug": "danzophrenia",
+      "origin": "https://buq.partners",
+      "locations": [
+        165
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_power-house",
+      "name": "Power House",
+      "platform": "buq",
+      "city": "Ciudad de México",
+      "company_id": 100,
+      "brand_slug": "power-house",
+      "origin": "https://buq.partners",
+      "locations": [
+        164
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_the-cave-fit",
+      "name": "THE CAVE FIT",
+      "platform": "buq",
+      "city": null,
+      "company_id": 99,
+      "brand_slug": "the-cave-fit",
+      "origin": "https://buq.partners",
+      "locations": [
+        163
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_commando-studio",
+      "name": "Commando Studio CDMX",
+      "platform": "buq",
+      "city": "Cuajimalpa",
+      "company_id": 98,
+      "brand_slug": "commando-studio",
+      "origin": "https://buq.partners",
+      "locations": [
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        167,
+        186,
+        187,
+        188,
+        204
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_cool-indoor-cycling-studio",
+      "name": "Cool Indoor Cycling Studio",
+      "platform": "buq",
+      "city": null,
+      "company_id": 97,
+      "brand_slug": "cool-indoor-cycling-studio",
+      "origin": "https://buq.partners",
+      "locations": [
+        150,
+        223
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_indoor-barre",
+      "name": "Indoor Barré",
+      "platform": "buq",
+      "city": null,
+      "company_id": 93,
+      "brand_slug": "indoor-barre",
+      "origin": "https://buq.partners",
+      "locations": [
+        145
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_terra-barre",
+      "name": "Terra Barre Santa Fe",
+      "platform": "buq",
+      "city": null,
+      "company_id": 91,
+      "brand_slug": "terra-barre",
+      "origin": "https://buq.partners",
+      "locations": [
+        140
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_bixi-indoor-cycling",
+      "name": "bixi Indoor Cycling",
+      "platform": "buq",
+      "city": null,
+      "company_id": 88,
+      "brand_slug": "bixi-indoor-cycling",
+      "origin": "https://buq.partners",
+      "locations": [
+        136
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_viivra-studio",
+      "name": "Viivra Studio",
+      "platform": "buq",
+      "city": null,
+      "company_id": 85,
+      "brand_slug": "viivra-studio",
+      "origin": "https://buq.partners",
+      "locations": [
+        133
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_control-room-polanco",
+      "name": "Control Room Prado Norte",
+      "platform": "buq",
+      "city": null,
+      "company_id": 82,
+      "brand_slug": "control-room-polanco",
+      "origin": "https://buq.partners",
+      "locations": [
+        129
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_soul-studio-santa-fe",
+      "name": "Soul Studio Santa Fe",
+      "platform": "buq",
+      "city": null,
+      "company_id": 57,
+      "brand_slug": "soul-studio-santa-fe",
+      "origin": "https://buq.partners",
+      "locations": [
+        126
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_fitspin",
+      "name": "Fitspin Cdmx",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 80,
+      "brand_slug": "fitspin",
+      "origin": "https://buq.partners",
+      "locations": [
+        119,
+        120,
+        122,
+        123,
+        135
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_side-to-side",
+      "name": "Side to Side",
+      "platform": "buq",
+      "city": null,
+      "company_id": 78,
+      "brand_slug": "side-to-side",
+      "origin": "https://buq.partners",
+      "locations": [
+        116,
+        181
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_casa-mila",
+      "name": "Casa Mila",
+      "platform": "buq",
+      "city": "NAUCALPAN DE JUÁREZ",
+      "company_id": 76,
+      "brand_slug": "casa-mila",
+      "origin": "https://buq.partners",
+      "locations": [
+        114,
+        176
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_el-parque-polanco",
+      "name": "ElParque Polanco",
+      "platform": "buq",
+      "city": null,
+      "company_id": 22,
+      "brand_slug": "el-parque-polanco",
+      "origin": "https://buq.partners",
+      "locations": [
+        113
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_el-parque-pedregal",
+      "name": "ElParque Pedregal",
+      "platform": "buq",
+      "city": null,
+      "company_id": 22,
+      "brand_slug": "el-parque-pedregal",
+      "origin": "https://buq.partners",
+      "locations": [
+        112
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_el-parque-interlomas",
+      "name": "ElParque Arcos Bosques",
+      "platform": "buq",
+      "city": null,
+      "company_id": 22,
+      "brand_slug": "el-parque-interlomas",
+      "origin": "https://buq.partners",
+      "locations": [
+        111
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_rila-studio",
+      "name": "RILA STUDIO",
+      "platform": "buq",
+      "city": "Ciudad de México",
+      "company_id": 72,
+      "brand_slug": "rila-studio",
+      "origin": "https://buq.partners",
+      "locations": [
+        106
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_beyond-ice-fitness",
+      "name": "Beyond Ice Fitness",
+      "platform": "buq",
+      "city": null,
+      "company_id": 70,
+      "brand_slug": "beyond-ice-fitness",
+      "origin": "https://buq.partners",
+      "locations": [
+        104
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_piso-5",
+      "name": "PI5OCINCO",
+      "platform": "buq",
+      "city": "Merida",
+      "company_id": 68,
+      "brand_slug": "piso-5",
+      "origin": "https://buq.partners",
+      "locations": [
+        101
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_bounce",
+      "name": "Bounce",
+      "platform": "buq",
+      "city": null,
+      "company_id": 67,
+      "brand_slug": "bounce",
+      "origin": "https://buq.partners",
+      "locations": [
+        100,
+        102
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_two-battles",
+      "name": "Control Room Polanco",
+      "platform": "buq",
+      "city": "MIGUEL HIDALGO",
+      "company_id": 65,
+      "brand_slug": "two-battles",
+      "origin": "https://buq.partners",
+      "locations": [
+        96
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_utopia",
+      "name": "Utopia",
+      "platform": "buq",
+      "city": "Tlanepantla",
+      "company_id": 62,
+      "brand_slug": "utopia",
+      "origin": "https://buq.partners",
+      "locations": [
+        88
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_soul-studio",
+      "name": "soul studio zona esmeralda",
+      "platform": "buq",
+      "city": null,
+      "company_id": 57,
+      "brand_slug": "soul-studio",
+      "origin": "https://buq.partners",
+      "locations": [
+        83
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_krdio",
+      "name": "Krdio",
+      "platform": "buq",
+      "city": null,
+      "company_id": 51,
+      "brand_slug": "krdio",
+      "origin": "https://buq.partners",
+      "locations": [
+        73
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_casa-nui",
+      "name": "Casa Nui",
+      "platform": "buq",
+      "city": "Leon",
+      "company_id": 33,
+      "brand_slug": "casa-nui",
+      "origin": "https://buq.partners",
+      "locations": [
+        44
+      ],
+      "active": true
+    },
+    {
+      "id": "ollynk_hyrox_san_angel",
+      "name": "Hyrox Performance Center San Ángel",
+      "platform": "ollynk",
+      "city": "CDMX",
+      "business_id": "c3ec8ef5-3f58-474f-a172-bf3971a56860",
+      "branch_id": "be2d4b1b-b2c5-4157-b165-bf797e93bf0d",
+      "sdk_token": "sdk_DI3Z8uVxmlmRHbNIOCOw0STacGgrfvKR",
+      "active": true
+    },
+    {
+      "id": "ollynk_hyrox_polanco",
+      "name": "Hyrox Performance Center Polanco",
+      "platform": "ollynk",
+      "city": "CDMX",
+      "business_id": "bc626955-3ac8-48ff-93f1-c54486caccbf",
+      "branch_id": "469b6320-1149-4f0d-a90d-32a826ba5f34",
+      "sdk_token": "sdk_Tcs39Tca6VPwalSeEkHMqr4uWH32LfIi",
+      "active": true
+    },
+    {
+      "id": "ollynk_sersana_polanco",
+      "name": "Sersana Polanco",
+      "platform": "ollynk",
+      "city": "CDMX",
+      "business_id": "34de02b4-a04b-4d3d-830c-00da4b3bec4a",
+      "branch_id": "ab950266-da51-4c5d-8c94-1188eca59111",
+      "sdk_token": "sdk_DLxElbnWrvKZR2nMZAu5PPMDpU1c3uYK",
+      "active": true
+    },
+    {
+      "id": "ollynk_sersana_polanco_stn4",
+      "name": "Sersana Polanco STN4",
+      "platform": "ollynk",
+      "city": "CDMX",
+      "business_id": "34de02b4-a04b-4d3d-830c-00da4b3bec4a",
+      "branch_id": "6655f4ab-6ffc-4d2d-ab09-c72288d7bf20",
+      "sdk_token": "sdk_qGXUe9syfpKFZkdCDDhycu1OubZMj4ZP",
+      "active": true
+    },
+    {
+      "id": "ollynk_sersana_artz_pedregal",
+      "name": "Sersana Artz Pedregal",
+      "platform": "ollynk",
+      "city": "CDMX",
+      "business_id": "34de02b4-a04b-4d3d-830c-00da4b3bec4a",
+      "branch_id": "7e2f32da-3ad4-46a4-8f05-389d3322b123",
+      "sdk_token": "sdk_wSxiOzKZSvgrTihgjnsca7sZAqZ5ZXgC",
+      "active": true
+    },
+    {
+      "id": "ollynk_sersana_arcos_bosques",
+      "name": "Sersana Arcos Bosques",
+      "platform": "ollynk",
+      "city": "CDMX",
+      "business_id": "34de02b4-a04b-4d3d-830c-00da4b3bec4a",
+      "branch_id": "3c3ff7ab-1a0c-413e-84b6-6845d5d7d29e",
+      "sdk_token": "sdk_aAvdfq3Uc3LRteToBFobGrhvhKlUZR6u",
+      "active": true
+    },
+    {
+      "id": "ollynk_sersana_arcos_stn4",
+      "name": "Sersana Arcos STN4",
+      "platform": "ollynk",
+      "city": "CDMX",
+      "business_id": "34de02b4-a04b-4d3d-830c-00da4b3bec4a",
+      "branch_id": "d763cb87-76cd-4bdb-815c-107225b95d21",
+      "sdk_token": "sdk_0IDb1n7Z1FWB96BP5Qx4r9XrFcsOnQfD",
+      "active": true
+    },
+    {
+      "id": "ollynk_sersana_san_angel",
+      "name": "Sersana San Ángel Club 78",
+      "platform": "ollynk",
+      "city": "CDMX",
+      "business_id": "34de02b4-a04b-4d3d-830c-00da4b3bec4a",
+      "branch_id": "15544706-91c2-482b-8cf9-757aa408090f",
+      "sdk_token": "sdk_qjDsGLckVq0xDPwngKccuKWetKy7RBoz",
+      "active": true
+    },
+    {
+      "id": "ollynk_sersana_valle_de_bravo",
+      "name": "Sersana Valle de Bravo",
+      "platform": "ollynk",
+      "city": "Valle de Bravo",
+      "business_id": "34de02b4-a04b-4d3d-830c-00da4b3bec4a",
+      "branch_id": "08e0ccdc-d38a-4665-9cc4-1aab770f7471",
+      "sdk_token": "sdk_HjZA3vtyPaRz40SChcxqbu5pgJ2SQSwg",
+      "active": true
+    }
+  ]
+}

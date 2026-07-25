@@ -1,0 +1,24 @@
+# Entorno y secretos
+.env
+
+# Research interno con credenciales reales embebidas — no subir a GitHub
+FITNESS_MONITOR_ENGINE_RESEARCH.md
+
+# Python
+__pycache__/
+*.py[cod]
+.Python
+venv/
+.venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+.claude/settings.local.json
+
+# Logs
+*.log

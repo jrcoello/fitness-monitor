@@ -1,0 +1,200 @@
+id,name,slug,city,country_id,company_id,company_name,status,created_at
+212,HPC SAN Ángel,hpc-san-angel,Alvaro Obregon,136,157,Hyrox,active,2026-03-25
+211,Maple Force,maple-force,,,136,Maple,active,2026-03-16
+210,Pylora,pylora,,,192,pylora,active,2026-03-13
+209,Misogi Wellness,misogi-wellness,,,191,Misogi Wellness,active,2026-03-13
+208,bunker,bunker,,,190,Bunker Indoor Golf,active,2026-03-10
+207,RISE,rise,,,189,RISE,active,2026-03-05
+206,Boden,boden,,,188,boden,active,2026-03-01
+205,Prime Studio,prime-studio,,,187,primestudio,active,2026-02-20
+204,Human Prime Lab,human-prime-lab,,,186,Human Prime Lab,active,2026-02-17
+203,PLT Studio Cancún,plt-studio-cancun,,,185,PLT STUDIO,active,2026-02-12
+202,PLT Studio Polanco,plt-studio-polanco,,,185,PLT STUDIO,active,2026-02-12
+201,PLT Studio Bosques,plt-studio-bosques,,,185,PLT STUDIO,active,2026-02-12
+200,Reform Zona Esmeralda,reform-zona-esmeralda,,,162,Reform,active,2026-02-09
+199,San José Insurgentes,san-jose-insurgentes,,,176,Primera Posición,active,2026-02-04
+198,Blast,blast,,,183,Blast Studio,active,2026-02-03
+197,Duha,duha,,,182,duha,active,2026-01-30
+196,Hybrix,hybrix,,,181,Hybrix,active,2026-01-28
+195,Mom Nest,mom-nest,,,180,momnest,active,2026-01-27
+194,Estudio 1,estudio-1,,,179,Umaah Haus,active,2026-01-26
+193,Rayo,rayo,,,175,Rayo,active,2026-01-16
+192,Roma Norte Primera Posición,primera-posicion,,,176,Primera Posición,active,2026-01-16
+191,Three Fit,three-fit,,,178,Three Fit,active,2026-01-14
+190,Souls,souls,,,177,Souls On Fire,active,2026-01-13
+189,Metepec,sunset-studio-metepec,,,134,Sunset,active,2026-01-07
+188,Everyone Yoga,every-one-yoga,,,174,Everyone Yoga,active,2026-01-05
+187,Drip Fit,drip-fit,,,173,Drip Fit,active,2025-12-23
+186,Áthom,athom,,,172,Áthom,active,2025-12-22
+185,Atlic,atlic,Miguel Hidalgo,136,171,Atlic,active,2025-12-15
+184,Zoma Method,zoma-method,Toluca,136,170,Zoma Method,active,2025-12-13
+183,Nómada Pilates,nomada-pilates,,,169,Nómada Pilates,active,2025-12-10
+182,Two Mind + Body,two-mind-body-1,,,168,Two Mind + Body,active,2025-12-04
+181,Two Mind  Body,two-mind-body,,,167,Two,active,2025-12-04
+180,marca 1,marca-1,,,165,test,active,2025-11-26
+179,Soul Studio Linda Vista,soul-studio-linda-vista,,,57,soulstudio,active,2025-11-13
+178,Studio 51,studio-51,,,163,Studio 51,active,2025-10-29
+177,Reform Arboledas,reform,,,162,Reform,active,2025-10-28
+176,Terra Barre Las aguilas,las-aguilas,,,91,Terra Barre,active,2025-10-08
+175,Santum,santum,,,161,Santum high wellness,active,2025-10-02
+174,Lūn Studio,lun-studio,,,160,Lun Pilates Studio & Barre,active,2025-09-30
+173,Seijaklu Balance,seijaklu-balance,,,159,Seijaku,active,2025-09-22
+172,My Flow Polanco,my-flow-polanco,,,114,MyFlow,active,2025-09-19
+171,Espacio Garden,espacio-garden,,,158,Espacio Garden,active,2025-09-16
+170,MyFlow Bosques,my-flow-lomas,,,114,MyFlow,active,2025-09-11
+169,HPC,performance-center,,,157,Hyrox,active,2025-09-03
+168,Skip Studio,skip-studio,,,155,Skip Studio,active,2025-09-03
+167,Goals,goals,,,154,Goals Pilates,active,2025-08-13
+166,aura,aura,,,153,Aura Essence,active,2025-08-12
+165,Peak,peak,,,152,PEAK FITNESS,active,2025-08-12
+164,Ezencia Pilates,ezencia-pilates,,,151,Ezencia Pilates Studio,active,2025-08-07
+163,Roca,roca,,,150,Roca,active,2025-08-06
+162,Safe Space,safe-space,,,149,Safe Space,active,2025-07-26
+161,Frame Pilates Lab,frame-pilates-lab,,,148,Frame Pilates Lab,active,2025-07-22
+160,BalanceBodyBarre,balancebodybarre,,,147,BBB,active,2025-07-22
+159,Mérida,merida,,,146,Casa Onze,active,2025-07-15
+158,CDMX,cdmx,,,146,Casa Onze,active,2025-07-15
+157,Cathe´s Place,cathes-place,,,145,Cathes,active,2025-07-11
+156,Kaali Pilates Studio,kaali-pilates-studio,,,144,Kaali,active,2025-07-10
+155,Buq,buq-1,,,143,BUQ,active,2025-06-25
+154,Latitud Collective,latitud-collective,Metepec,136,142,LATITUD,active,2025-06-24
+153,EmpowerHer,empowerher,,,141,EmpowerHer,active,2025-06-17
+152,REDO,redo,,,140,REDO,active,2025-06-05
+151,Turnout Studio,turnout-studio,,,139,Turnout,active,2025-05-29
+150,Élevé Pilates,eleve-pilates,,,138,Eleve,active,2025-05-27
+149,mara,mara,,,137,Mara,active,2025-05-19
+148,Maple,maple,,,136,Maple,active,2025-05-15
+147,Beyond Fitness,beyond-fitness,,,135,Beyond Fitness,active,2025-04-30
+146,Toluca,sunset-studio,,,134,Sunset,active,2025-04-29
+145,FITT ROOM,fiit-room,,,133,FITT ROOM,active,2025-04-24
+144,Kafen,kafen,,,132,Kafen Studio,active,2025-04-22
+143,Vicio,vicio,,136,130,Vicio Training Club,active,2025-04-09
+142,Votion,votion,,,131,Votion,active,2025-04-09
+141,Rodada 52,rodada-52,,,129,Rodada 52,active,2025-04-08
+140,AUA,aua,,,128,AUA,active,2025-04-07
+139,kevala,kevala,,136,127,KEVALA,active,2025-04-03
+138,Ole by Adapta,ole-by-adapta,CDMX,136,126,Ole by Adapta,active,2025-03-26
+137,mov mov pilates,mov-mov-pilates,,,125,Mov Mov Pilates,active,2025-03-05
+136,Arrrco,arrrco,,,124,Arrrco,active,2025-03-04
+135,Zänä Studio,zana-studio-barre-pilates,,,123,Zänä Studio,active,2025-02-19
+134,Pink Jardin balbuena,pink-jardin-balbuena,,,122,Pink Studio,active,2025-02-18
+133,Pink  Studio Santa maria La Rivera,pink-studio,,,122,Pink Studio,active,2025-02-17
+132,Ritmo Experience,ritmo-experience,,,120,Ritmo Experience,active,2025-02-10
+131,Spacio High Energy,spacio-high-energy,,,119,Spacio High energy,active,2025-01-30
+130,Nuqore Studio,nuqleo-studio,,,118,Nuqore Studio,active,2025-01-27
+129,Soul Studio Masaryk,soul-estudio-masaryk,,,57,soulstudio,active,2024-12-12
+128,Tribu Fitness Center,tribu-fitness-center,,,117,Tribu Fitness Center,active,2024-12-10
+127,Be Balance Studio,be-balance-studio,CDMX,136,116,Be Balance Studio,active,2024-12-03
+126,A pilates,a-pilates-cuerpo-y-mente,,,115,A Pilates,active,2024-11-29
+125,Fitspin Cancún,fitspin-cancun,,,80,Fitspin,active,2024-11-27
+124,MyFlow Interlomas,myflow,,,114,MyFlow,active,2024-11-22
+123,Balanco Wellnes,balanco-wellnes,,136,113,Balanco Wellness,active,2024-11-20
+122,Pi Lab,pi-lab,CDMX,136,112,Pi Lab,active,2024-11-12
+121,the cult,the-cult,CDMX,136,111,The Cult,active,2024-11-05
+120,ATHLEX,athlex,,,110,ATHLEX,active,2024-11-04
+119,Bloom Pilates Club,bloom-pilates-club,,,109,Bloom Pilates Club,active,2024-10-24
+118,One Indoor Studio,one-indoor-studio,,,108,ONE INDOOR STUDIO,active,2024-10-11
+117,Mindform,mind-form,,,107,MindForm,active,2024-10-02
+116,Bloom Nation,bloom-nation,,,106,Bloom Nation,active,2024-09-09
+115,Casa Elemento,casa-elemento,,,105,Casa Elemento,active,2024-08-19
+114,Luria Barre Studio,luria-barre-studio,,,104,Luria Barre Studio,active,2024-07-31
+113,Blaze method,blaze-method,Miguel Hidalgo,136,103,Blaze method,active,2024-07-30
+112,Sucursal Lerdo y Tecolutilla,comalcalco-tecolutilla,,,102,Alamilla Sport & Fitness,active,2024-07-09
+111,Matriz y paraiso,alamilla-sport-fitness,Comalcalco,136,102,Alamilla Sport & Fitness,active,2024-07-09
+110,Commando Studio GDL,commando-studio-gdl,,,98,Commando,active,2024-06-25
+109,Danzophrenia,danzophrenia,CDMX,136,101,Danzophrenia,active,2024-05-28
+108,Power House,power-house,,,100,Power House,active,2024-05-14
+107,THE CAVE FIT,the-cave-fit,,,99,The Cave Fit,active,2024-04-26
+106,Commando Studio CDMX,commando-studio,,,98,Commando,active,2024-04-25
+105,Cool Indoor Cycling Studio,cool-indoor-cycling-studio,,,97,Cool  Studio,active,2024-02-13
+104,V Rhode Studio,v-rhode-studio,,,96,V Rhode Studio,active,2024-02-06
+103,Hiit Barre,hit-barre,,,95,Hiit Barre,active,2024-02-06
+102,Nado Club,nado-club,,,94,Nado Club,active,2024-01-25
+101,Indoor Barré,indoor-barre,,,93,Indoor Barré,active,2024-01-15
+100,Fever Club,fever-club,Alvaro Obregon,136,92,Fever Club,active,2023-11-28
+99,Terra Barre Santa Fe,terra-barre,,,91,Terra Barre,active,2023-11-10
+98,TERMIQUE,termique,,,90,TERMIQUE,active,2023-10-12
+97,Warriors Parkour,warriors-parkour,,,89,Warriors Parkour,active,2023-10-10
+96,bixi Indoor Cycling,bixi-indoor-cycling,,,88,Bixi Indoor cycling,active,2023-09-15
+95,HOM,hom,Madrid,67,87,HOM,active,2023-09-01
+94,Batelier Barre Lab,batelier-studio,Madrid,67,86,Batelier Studio SL,active,2023-08-31
+93,Viivra Studio,viivra-studio,,,85,Viivra Studio,active,2023-08-25
+92,Voltio,voltio,,,84,Voltio,active,2023-08-24
+91,Séntro mind &wellness,sentro-mind-wellness,,,83,Séntro mind &wellness,active,2023-07-28
+90,Control Room Prado Norte,control-room-polanco,,,82,Control Room,active,2023-07-11
+88,Casa Barre,casa-barre,,,81,Casa Barre,active,2023-07-07
+87,Soul Studio Santa Fe,soul-studio-santa-fe,,,57,soulstudio,active,2023-07-07
+86,Fitspin Cdmx,fitspin,CDMX,136,80,Fitspin,active,2023-06-27
+85,THE MAT STUDIO,the-mat-studio,,,79,THE MAT STUDIO,active,2023-06-12
+84,Side to Side,side-to-side,,,78,Side to Side,active,2023-05-30
+83,Marca de Pruebas,marca-de-pruebas,,,77,Compañía de Pruebas,active,2023-05-12
+82,Casa Mila,casa-mila,NAUCALPAN DE JUÁREZ,136,76,Casa Mila,active,2023-03-21
+81,ElParque Polanco,el-parque-polanco,,,22,ElParque,active,2023-02-27
+80,ElParque Pedregal,el-parque-pedregal,,,22,ElParque,active,2023-02-27
+79,ElParque Arcos Bosques,el-parque-interlomas,,,22,ElParque,active,2023-02-27
+78,Test Brand,test-brand,,136,75,Test,active,2023-02-14
+77,Race Lab,race-lab,,,74,Race Lab,active,2022-09-23
+76,Bliss Wellness Center,bliss-wellness-center,,,73,Bliss Wellness Center,active,2022-09-20
+75,RILA STUDIO,rila-studio,,,72,RILA STUDIO,active,2022-09-19
+74,L Barré Studio,l-barre-studio,,,71,L Barré Studio,active,2022-09-09
+73,Beyond Ice Fitness,beyond-ice-fitness,,,70,Beyond Ice Fitness,active,2022-08-25
+72,Sandy Get Fit,sandy-get-fit,,,69,SandyGetFit,active,2022-08-15
+71,PI5OCINCO,piso-5,,,68,PI5OCINCO,active,2022-08-02
+70,Bounce,bounce,,,67,Bounce,active,2022-06-15
+69,Jarana Studio,cyclone-studio,,,66,Jarana Studio,active,2022-04-25
+68,Control Room Polanco,two-battles,,,65,Control Room Polanco,active,2022-04-05
+67,Confidance,confidance,Giadalajara,136,64,Confidance,active,2022-03-24
+66,Lomas Gym,lomas-gym,,,63,Lomas Gym,active,2022-02-17
+65,Utopia,utopia,,136,62,Utopia,active,2022-01-25
+64,Equilibrium,equilibrium,,,61,Equilibrium,active,2021-12-17
+63,RBL,rbl-1,,,60,REBL,active,2021-11-12
+62,360 Indoor Cycling,360-indoor-cycling,,,59,360 Indoor Cycling,active,2021-11-09
+61,360cycle,360cycle,,,58,360cycle,active,2021-11-09
+60,soul studio zona esmeralda,soul-studio,,,57,soulstudio,active,2021-10-29
+59,DS Pilates,ds-pilates,Nuevo Laredo,136,56,DS Pilates,active,2021-10-14
+58,Mahat yoga,mahat-yoga,,,55,Mahat yoga,active,2021-09-08
+57,Bodhi 108,bohdi,,,54,Bodhi108 Santa Fe,active,2021-08-25
+56,suus,suus,,,53,SUUS,active,2021-08-24
+55,PLT Studio,plt-studio,,,52,PLT Studio,active,2021-08-12
+54,Krdio,krdio,,,51,krdio,active,2021-08-11
+53,The Clubhouse,the-clubhouse,,,50,The Clubhouse,active,2021-07-30
+52,The Clubhouse,club-house,,136,49,The Clubhouse,active,2021-07-30
+51,Glam Ride,glam-ride,,,48,GLAM RIDE,active,2021-07-28
+50,Calma,calma,Cuauhtemoc,136,47,Calma,active,2021-07-12
+49,clubhouse,clubhouse,,,46,CLUBHOUSE,active,2021-06-16
+48,Mamba,mamba,,,45,Mamba,active,2021-06-07
+47,Revolution 2.0,revolution-20,,,44,Revolution 2.0,active,2021-06-01
+46,Alma Ride,alma-ride,,,43,ALMA RIDE,active,2021-05-24
+45,Encore,core-collective,,136,42,Encore,active,2021-04-21
+44,Aquara Kids Tlaxcala,aquara,Tlaxcala,136,41,Aquara,active,2021-03-30
+43,Gfit,gfit,,,40,gfit,active,2021-03-25
+42,Roda Cycling,roda-cycling,Adolfo López Mateos,136,39,Roda Cycling,active,2021-03-25
+41,SUPA,supa,,,38,SUPA,active,2021-03-17
+40,Lomas Hot Yoga,hot-yoga,Mexico,136,37,Lomas Hot Yoga,active,2021-03-02
+39,Revolution,revolution,,,36,Revolution Pop Up,active,2021-03-02
+38,RBL,rbl,CDMX,136,35,RBL STUDIO,active,2021-02-19
+37,Fyre Studio,fyre-studio,,,34,Fyre Studio,active,2021-02-16
+36,Casa Nui,casa-nui,León,136,33,Casa Nui,active,2021-01-05
+35,Sky9,sky9,,,32,Sky9,active,2021-01-04
+34,Go Goliath,go-goliath,,,31,Go Goliath,active,2020-12-09
+33,Studio Indoor Cycle,studio-indoor-cycle,playa del carmen,136,30,Studio Indoor Cycle,active,2020-11-12
+32,FORZA SWEAT HOUSE,forza,,,29,Forza,active,2020-10-19
+31,Beardman,beardman,,,17,Bibe,active,2020-10-15
+30,Pule By Tat,pule-by-tat,,,28,Pule by Tat,active,2020-10-14
+29,The Muro,the-muro,CDMX,136,27,The Muro,active,2020-10-07
+28,Buq México,buq-mexico,,,26,Buq,active,2020-10-06
+26,SUPA,surfit-mx,,,24,Surfit Mx,active,2020-09-20
+25,ANS STUDIO,ans-studio,,,23,ANS STUDIO,active,2020-09-15
+13,ElParque PEDREGAL,elparque-pedregal,,,21,El Parque,active,2020-08-18
+12,Undercover Fitness,undercover-fitness,,,20,Undercover,active,2020-08-03
+11,Undercover CrossFit,undercover-crossfit,,,20,Undercover,active,2020-08-03
+10,Barre Mx,barre-mx,,,19,Barre MX,active,2020-07-27
+9,Bikla,bikla-beatforce,,,18,Bikla,active,2020-07-17
+8,Elemental,elemental,,,17,Bibe,active,2020-04-24
+7,Vanessa Coppel,vanessa-coppel,,,16,Vanessa Coppel,active,2020-04-13
+6,OneTwo,onetwo,Álvaro Obregón,136,13,OneTwo,active,2020-04-06
+5,Saude,saude,,,14,Saude,active,2020-03-25
+4,PS 360,ps-360,,,12,PS 360,active,2020-03-10
+3,Balance Body Barre,balance-body-barre,,,11,Balance Body Barre,active,2020-03-10
+2,Amara Yoga Studio,amara-yoga-studio,CDMX,,8,Amara YogaStudio,active,2020-03-04
+1,Pablo 1,pablo-1,,,10,Pablo,active,2020-03-04
