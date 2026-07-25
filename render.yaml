@@ -23,15 +23,15 @@ services:
       - key: ENVIRONMENT
         value: production
 
-  # Mariana Tek y Síclo solo muestran clases futuras — una vez que la clase empieza,
-  # la ocupación real desaparece (Mariana Tek la resetea a 0, Síclo la quita de la lista).
+  # Mariana Tek, Síclo y Ollynk solo muestran clases futuras — una vez que la clase empieza,
+  # la ocupación real desaparece (Mariana Tek la resetea a 0, Síclo/Ollynk la quitan de la lista).
   # Por eso se corren cada 30 min: es la única forma de acercarse a la ocupación final real.
   - type: cron
     name: fitness-scraper-realtime
     runtime: python
     buildCommand: pip install -r requirements.txt
     schedule: "*/30 * * * *"
-    startCommand: sh -c "python -m core.runner --platform marianatek && python -m core.runner --platform siclo"
+    startCommand: sh -c "python -m core.runner --platform marianatek && python -m core.runner --platform siclo && python -m core.runner --platform ollynk"
     envVars:
       - key: SUPABASE_URL
         sync: false
