@@ -564,29 +564,184 @@
       "active": true
     },
     {
-      "id": "buq_estudio-1",
-      "name": "Estudio 1",
+      "id": "buq_reset-lab-by-radiance_umaah",
+      "name": "Reset Lab By Radiance (Umaah)",
       "platform": "buq",
-      "city": null,
+      "city": "CDMX",
       "company_id": 179,
       "brand_slug": "estudio-1",
       "origin": "https://buq.partners",
       "locations": [
-        342,
-        368,
-        362,
-        360,
-        359,
-        352,
-        351,
-        350,
-        349,
-        343,
-        295,
-        341,
-        340,
-        339,
-        338
+        342
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_osmos_umaah",
+      "name": "Osmos (Umaah)",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 179,
+      "brand_slug": "estudio-1",
+      "origin": "https://buq.partners",
+      "locations": [
+        368
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_votion-fitness_umaah",
+      "name": "Votion Fitness (Umaah)",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 179,
+      "brand_slug": "estudio-1",
+      "origin": "https://buq.partners",
+      "locations": [
+        362
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_reshape-elite-boutique-training_umaah",
+      "name": "Reshape Elite Boutique Training (Umaah)",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 179,
+      "brand_slug": "estudio-1",
+      "origin": "https://buq.partners",
+      "locations": [
+        360
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_the-mat-bar_umaah",
+      "name": "The Mat Bar (Umaah)",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 179,
+      "brand_slug": "estudio-1",
+      "origin": "https://buq.partners",
+      "locations": [
+        359
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_legado-1940_umaah",
+      "name": "Legado 1940 (Umaah)",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 179,
+      "brand_slug": "estudio-1",
+      "origin": "https://buq.partners",
+      "locations": [
+        352
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_body-roll_umaah",
+      "name": "Body Roll (Umaah)",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 179,
+      "brand_slug": "estudio-1",
+      "origin": "https://buq.partners",
+      "locations": [
+        351
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_belaye-spa-hair-nails_umaah",
+      "name": "Belaye Spa Hair Nails (Umaah)",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 179,
+      "brand_slug": "estudio-1",
+      "origin": "https://buq.partners",
+      "locations": [
+        350
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_fontana_umaah",
+      "name": "Fontana (Umaah)",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 179,
+      "brand_slug": "estudio-1",
+      "origin": "https://buq.partners",
+      "locations": [
+        349
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_bosques-wellness-co_umaah",
+      "name": "Bosques Wellness Co (Umaah)",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 179,
+      "brand_slug": "estudio-1",
+      "origin": "https://buq.partners",
+      "locations": [
+        343
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_ubicacion-umaah",
+      "name": "Ubicacion Umaah",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 179,
+      "brand_slug": "estudio-1",
+      "origin": "https://buq.partners",
+      "locations": [
+        295
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_cyclone_umaah",
+      "name": "Cyclone (Umaah)",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 179,
+      "brand_slug": "estudio-1",
+      "origin": "https://buq.partners",
+      "locations": [
+        341
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_alquimia-metabolica_umaah",
+      "name": "Alquimia Metabolica (Umaah)",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 179,
+      "brand_slug": "estudio-1",
+      "origin": "https://buq.partners",
+      "locations": [
+        340
+      ],
+      "active": true
+    },
+    {
+      "id": "buq_the-klan-martial-arts_umaah",
+      "name": "The Klan Martial Arts (Umaah)",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 179,
+      "brand_slug": "estudio-1",
+      "origin": "https://buq.partners",
+      "locations": [
+        339
       ],
       "active": true
     },
