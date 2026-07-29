@@ -2033,6 +2033,36 @@
       "branch_id": "08e0ccdc-d38a-4665-9cc4-1aab770f7471",
       "sdk_token": "sdk_HjZA3vtyPaRz40SChcxqbu5pgJ2SQSwg",
       "active": true
+    },
+    {
+      "id": "ollynk_fvr_carracci",
+      "name": "FVR Club Carracci",
+      "platform": "ollynk",
+      "city": "CDMX",
+      "business_id": "c9deff89-2e51-4a09-a638-5bc6bd885bf1",
+      "branch_id": "2af8bbce-78fa-4ff1-8cdf-dc0ebcc158f1",
+      "sdk_token": "sdk_9uYDDCyp0tnzVYM1uoDy6ilmTaXxiUm7",
+      "active": true
+    },
+    {
+      "id": "ollynk_fvr_pedregal",
+      "name": "FVR Club Pedregal",
+      "platform": "ollynk",
+      "city": "CDMX",
+      "business_id": "c9deff89-2e51-4a09-a638-5bc6bd885bf1",
+      "branch_id": "af2badbb-9dd9-43e5-a63f-0cc1d6aea22b",
+      "sdk_token": "sdk_VIBSn7hBCklDa4H3jEu9uj5GYG9Nqe4a",
+      "active": true
+    },
+    {
+      "id": "ollynk_fvr_san_angel",
+      "name": "FVR Club San Ángel",
+      "platform": "ollynk",
+      "city": "CDMX",
+      "business_id": "c9deff89-2e51-4a09-a638-5bc6bd885bf1",
+      "branch_id": "e8539c55-2e1d-4708-baae-ac001d1570ea",
+      "sdk_token": "sdk_F1OIoL9zh3dkYGL11h75POWvvhXEnXjO",
+      "active": true
     }
   ]
 }
