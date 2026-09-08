@@ -2063,6 +2063,249 @@
       "branch_id": "e8539c55-2e1d-4708-baae-ac001d1570ea",
       "sdk_token": "sdk_F1OIoL9zh3dkYGL11h75POWvvhXEnXjO",
       "active": true
+    },
+    {
+      "id": "commando_arcos_bosques",
+      "name": "Commando Arcos Bosques",
+      "platform": "marianatek",
+      "city": "CDMX",
+      "namespace": "commandostudio",
+      "location_id": 48758,
+      "active": true
+    },
+    {
+      "id": "commando_avenida_toluca",
+      "name": "Commando Avenida Toluca",
+      "platform": "marianatek",
+      "city": "CDMX",
+      "namespace": "commandostudio",
+      "location_id": 48816,
+      "active": true
+    },
+    {
+      "id": "commando_bosque_real",
+      "name": "Commando Bosque Real",
+      "platform": "marianatek",
+      "city": "CDMX",
+      "namespace": "commandostudio",
+      "location_id": 48817,
+      "active": true
+    },
+    {
+      "id": "commando_caleido",
+      "name": "Commando Caleido",
+      "platform": "marianatek",
+      "city": "Madrid",
+      "namespace": "commandostudio",
+      "location_id": 48882,
+      "active": true
+    },
+    {
+      "id": "commando_colon",
+      "name": "Commando Colón",
+      "platform": "marianatek",
+      "city": "Madrid",
+      "namespace": "commandostudio",
+      "location_id": 48783,
+      "active": true
+    },
+    {
+      "id": "commando_condesa",
+      "name": "Commando Condesa",
+      "platform": "marianatek",
+      "city": "CDMX",
+      "namespace": "commandostudio",
+      "location_id": 48757,
+      "active": true
+    },
+    {
+      "id": "commando_coyoacan",
+      "name": "Commando Coyoacán",
+      "platform": "marianatek",
+      "city": "CDMX",
+      "namespace": "commandostudio",
+      "location_id": 48765,
+      "active": true
+    },
+    {
+      "id": "commando_del_valle",
+      "name": "Commando Del Valle",
+      "platform": "marianatek",
+      "city": "CDMX",
+      "namespace": "commandostudio",
+      "location_id": 48767,
+      "active": true
+    },
+    {
+      "id": "commando_guadalupe_inn",
+      "name": "Commando Guadalupe Inn",
+      "platform": "marianatek",
+      "city": "CDMX",
+      "namespace": "commandostudio",
+      "location_id": 48915,
+      "active": true
+    },
+    {
+      "id": "commando_hamburgo",
+      "name": "Commando Hamburgo",
+      "platform": "marianatek",
+      "city": "CDMX",
+      "namespace": "commandostudio",
+      "location_id": 48759,
+      "active": true
+    },
+    {
+      "id": "commando_insurgentes_parque_hundido",
+      "name": "Commando Insurgentes Parque Hundido",
+      "platform": "marianatek",
+      "city": "CDMX",
+      "namespace": "commandostudio",
+      "location_id": 48756,
+      "active": true
+    },
+    {
+      "id": "commando_interlomas",
+      "name": "Commando Interlomas",
+      "platform": "marianatek",
+      "city": "CDMX",
+      "namespace": "commandostudio",
+      "location_id": 48753,
+      "active": true
+    },
+    {
+      "id": "commando_mariano_escobedo",
+      "name": "Commando Mariano Escobedo",
+      "platform": "marianatek",
+      "city": "CDMX",
+      "namespace": "commandostudio",
+      "location_id": 48764,
+      "active": true
+    },
+    {
+      "id": "commando_metepec",
+      "name": "Commando Metepec",
+      "platform": "marianatek",
+      "city": "Estado de México",
+      "namespace": "commandostudio",
+      "location_id": 48752,
+      "active": true
+    },
+    {
+      "id": "commando_pedregal",
+      "name": "Commando Pedregal",
+      "platform": "marianatek",
+      "city": "CDMX",
+      "namespace": "commandostudio",
+      "location_id": 48755,
+      "active": true
+    },
+    {
+      "id": "commando_polanco",
+      "name": "Commando Polanco",
+      "platform": "marianatek",
+      "city": "CDMX",
+      "namespace": "commandostudio",
+      "location_id": 48762,
+      "active": true
+    },
+    {
+      "id": "commando_prado_norte",
+      "name": "Commando Prado Norte",
+      "platform": "marianatek",
+      "city": "CDMX",
+      "namespace": "commandostudio",
+      "location_id": 48761,
+      "active": true
+    },
+    {
+      "id": "commando_providencia",
+      "name": "Commando Providencia",
+      "platform": "marianatek",
+      "city": "Guadalajara",
+      "namespace": "commandostudio",
+      "location_id": 48818,
+      "active": true
+    },
+    {
+      "id": "commando_puerta_de_hierro",
+      "name": "Commando Puerta de Hierro",
+      "platform": "marianatek",
+      "city": "Guadalajara",
+      "namespace": "commandostudio",
+      "location_id": 48751,
+      "active": true
+    },
+    {
+      "id": "commando_puerto_cancun",
+      "name": "Commando Puerto Cancún",
+      "platform": "marianatek",
+      "city": "Cancun",
+      "namespace": "commandostudio",
+      "location_id": 48849,
+      "active": true
+    },
+    {
+      "id": "commando_reforma_colon",
+      "name": "Commando Reforma Colón",
+      "platform": "marianatek",
+      "city": "CDMX",
+      "namespace": "commandostudio",
+      "location_id": 48766,
+      "active": true
+    },
+    {
+      "id": "commando_roma_sur",
+      "name": "Commando Roma Sur",
+      "platform": "marianatek",
+      "city": "CDMX",
+      "namespace": "commandostudio",
+      "location_id": 48760,
+      "active": true
+    },
+    {
+      "id": "commando_samara_santa_fe",
+      "name": "Commando Samara Santa Fe",
+      "platform": "marianatek",
+      "city": "CDMX",
+      "namespace": "commandostudio",
+      "location_id": 48754,
+      "active": true
+    },
+    {
+      "id": "commando_satelite",
+      "name": "Commando Satélite",
+      "platform": "marianatek",
+      "city": "CDMX",
+      "namespace": "commandostudio",
+      "location_id": 48763,
+      "active": true
+    },
+    {
+      "id": "commando_summit",
+      "name": "Commando Summit",
+      "platform": "marianatek",
+      "city": "CDMX",
+      "namespace": "commandostudio",
+      "location_id": 48820,
+      "active": true
+    },
+    {
+      "id": "commando_velazquez",
+      "name": "Commando Velázquez",
+      "platform": "marianatek",
+      "city": "Madrid",
+      "namespace": "commandostudio",
+      "location_id": 48717,
+      "active": true
+    },
+    {
+      "id": "commando_zona_esmeralda",
+      "name": "Commando Zona Esmeralda",
+      "platform": "marianatek",
+      "city": "CDMX",
+      "namespace": "commandostudio",
+      "location_id": 48948,
+      "active": true
     }
   ]
 }
