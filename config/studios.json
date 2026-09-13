@@ -70,10 +70,110 @@
     },
     {
       "id": "siclo_artz",
-      "name": "Síclo Artz",
+      "name": "Síclo Pedregal Artz",
       "platform": "siclo",
       "city": "CDMX",
-      "location_id": 603986,
+      "slug": "pedregal-artz",
+      "region": "cdmx",
+      "active": true
+    },
+    {
+      "id": "siclo_bosques",
+      "name": "Síclo Bosques",
+      "platform": "siclo",
+      "city": "CDMX",
+      "slug": "bosques",
+      "region": "cdmx",
+      "active": true
+    },
+    {
+      "id": "siclo_del_valle",
+      "name": "Síclo Del Valle",
+      "platform": "siclo",
+      "city": "CDMX",
+      "slug": "del-valle",
+      "region": "cdmx",
+      "active": true
+    },
+    {
+      "id": "siclo_helipuerto",
+      "name": "Síclo Helipuerto Siclo Park",
+      "platform": "siclo",
+      "city": "CDMX",
+      "slug": "helipuerto-siclo-park",
+      "region": "cdmx",
+      "active": true
+    },
+    {
+      "id": "siclo_interlomas",
+      "name": "Síclo Interlomas",
+      "platform": "siclo",
+      "city": "CDMX",
+      "slug": "interlomas",
+      "region": "cdmx",
+      "active": true
+    },
+    {
+      "id": "siclo_masaryk",
+      "name": "Síclo Masaryk",
+      "platform": "siclo",
+      "city": "CDMX",
+      "slug": "masaryk",
+      "region": "cdmx",
+      "active": true
+    },
+    {
+      "id": "siclo_pedregal_crater",
+      "name": "Síclo Pedregal Cráter",
+      "platform": "siclo",
+      "city": "CDMX",
+      "slug": "pedregal-crater",
+      "region": "cdmx",
+      "active": true
+    },
+    {
+      "id": "siclo_roma_gdl",
+      "name": "Síclo Roma Gdl",
+      "platform": "siclo",
+      "city": "CDMX",
+      "slug": "roma-gdl",
+      "region": "cdmx",
+      "active": true
+    },
+    {
+      "id": "siclo_roma_parian",
+      "name": "Síclo Roma Parián",
+      "platform": "siclo",
+      "city": "CDMX",
+      "slug": "roma-parian",
+      "region": "cdmx",
+      "active": true
+    },
+    {
+      "id": "siclo_santa_fe_park",
+      "name": "Síclo Santa Fe Park",
+      "platform": "siclo",
+      "city": "CDMX",
+      "slug": "santa-fe-park",
+      "region": "cdmx",
+      "active": true
+    },
+    {
+      "id": "siclo_midtown_gdl",
+      "name": "Síclo Midtown",
+      "platform": "siclo",
+      "city": "Guadalajara",
+      "slug": "midtown",
+      "region": "gdl",
+      "active": true
+    },
+    {
+      "id": "siclo_arboleda_mty",
+      "name": "Síclo Arboleda",
+      "platform": "siclo",
+      "city": "Monterrey",
+      "slug": "arboleda",
+      "region": "monterrey",
       "active": true
     },
     {

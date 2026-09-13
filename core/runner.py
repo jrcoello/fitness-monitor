@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 
 from core.supabase_client import upsert_snapshots, upsert_studios
-from core.token_manager import get_buq_token, get_siclo_token
+from core.token_manager import get_buq_token
 from scrapers.atombox import scrape_atombox
 from scrapers.buq import scrape_buq
 from scrapers.ezfit import scrape_ezfit
@@ -51,7 +51,6 @@ def run(platform: str | None = None, studio_id: str | None = None, dry_run: bool
         upsert_studios([_studio_record(s) for s in studios])
 
     buq_token = get_buq_token() if any(s["platform"] == "buq" for s in studios) else None
-    siclo_token = get_siclo_token() if any(s["platform"] == "siclo" for s in studios) else None
 
     for studio in studios:
         try:
@@ -60,7 +59,7 @@ def run(platform: str | None = None, studio_id: str | None = None, dry_run: bool
             elif studio["platform"] == "marianatek":
                 snapshots = scrape_marianatek(studio)
             elif studio["platform"] == "siclo":
-                snapshots = scrape_siclo(studio, siclo_token)
+                snapshots = scrape_siclo(studio)
             elif studio["platform"] == "ollynk":
                 snapshots = scrape_ollynk(studio)
             elif studio["platform"] == "fitco":

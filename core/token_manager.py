@@ -34,25 +34,3 @@ def get_buq_token() -> str:
     )
     response.raise_for_status()
     return response.json()["access_token"]
-
-
-# El login real de Síclo vive en api.siclo.plus (no api.siclo.com como el resto de
-# la API) — se encontró interceptando fetch/XHR en el navegador, no está documentado.
-SICLO_TOKEN_URL = "https://api.siclo.plus/auth/user/token"
-
-
-def get_siclo_token() -> str:
-    response = requests.post(
-        SICLO_TOKEN_URL,
-        json={
-            "email": os.environ["SICLO_EMAIL"],
-            "password": os.environ["SICLO_PASSWORD"],
-        },
-        headers={
-            "Accept": "application/json",
-            "Origin": "https://siclo.com",
-        },
-        timeout=15,
-    )
-    response.raise_for_status()
-    return response.json()["token"]["access_token"]

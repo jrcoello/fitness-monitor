@@ -41,9 +41,5 @@ services:
         sync: false
       - key: SUPABASE_SERVICE_KEY
         sync: false
-      - key: SICLO_EMAIL
-        sync: false
-      - key: SICLO_PASSWORD
-        sync: false
       - key: ENVIRONMENT
         value: production

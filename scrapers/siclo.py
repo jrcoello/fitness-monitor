@@ -3,31 +3,31 @@ from zoneinfo import ZoneInfo
 
 import requests
 
-SICLO_API_BASE = "https://api.siclo.com/api/v3"
+# Síclo migró de la v3 (numérica, requería login) a esta v7 (por slug de estudio,
+# sin login) en algún punto entre el 9 de agosto y el 12 de septiembre de 2026 —
+# la v3 seguía respondiendo 200 pero con "calendar": [] siempre, sin error, lo que
+# dejó el scraper "funcionando" en silencio durante más de un mes sin traer datos.
+SICLO_API_BASE = "https://api.siclo.com/api/v7"
 MEXICO_TZ = ZoneInfo("America/Mexico_City")
 
-# Todos los estudios que monitoreamos por ahora están en CDMX (id-region 1).
-# Síclo también opera en Monterrey, Guadalajara, España, Perú y Ecuador con otros ids,
-# pero eso queda fuera del alcance actual.
-SICLO_REGION_ID = "1"
 
-
-def scrape_siclo(studio: dict, token: str) -> list[dict]:
+def scrape_siclo(studio: dict) -> list[dict]:
     scraped_at = datetime.now(tz=MEXICO_TZ)
     scraped_date = scraped_at.date().isoformat()
 
-    calendar = _fetch_calendar(studio, token)
+    calendar = _fetch_calendar(studio)
     return [_map_class(studio, entry, scraped_at, scraped_date) for entry in calendar]
 
 
-def _fetch_calendar(studio: dict, token: str) -> list[dict]:
-    url = f"{SICLO_API_BASE}/calendar-instructors/{studio['location_id']}/"
+def _fetch_calendar(studio: dict) -> list[dict]:
+    url = f"{SICLO_API_BASE}/studio/calendar-instructors/{studio['slug']}/"
     response = requests.get(
         url,
         params={"subscription": 0},
         headers={
-            "Authorization": f"Bearer {token}",
-            "id-region": SICLO_REGION_ID,
+            "ID-REGION": studio["region"],
+            "X-Region-Id": studio["region"],
+            "X-Country-Code": "MX",
             "Origin": "https://siclo.com",
             "Accept": "application/json",
         },
