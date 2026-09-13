@@ -36,6 +36,12 @@ def _fetch_classes(studio: dict) -> list[dict]:
 
 
 def _map_class(studio: dict, c: dict, scraped_at: datetime, scraped_date: str) -> dict:
+    # bookingsCount es un PISO, no la asistencia real: la respuesta de este endpoint
+    # no trae ningún campo de Gympass/Wellhub/Totalpass (a diferencia de BUQ, que sí
+    # expone extra_fields.gympass/totalpass y los suma a reservation_count). Confirmado
+    # con FDV Sculpt Method (tiene Gympass y Wellhub activos) — el usuario reportó ver
+    # más gente en clase de la que refleja este número. Tratar occupancy_pct de
+    # estudios en esta plataforma como un mínimo, no como la ocupación real.
     start_local = datetime.fromisoformat(
         c["startsAt"].replace("Z", "+00:00")
     ).astimezone(MEXICO_TZ)
