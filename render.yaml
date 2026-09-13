@@ -1,12 +1,14 @@
 services:
-  # BUQ tiene histórico real (reservation_count no cambia después de la clase),
-  # así que basta una corrida diaria al final del día para capturar todo.
+  # BUQ, Fitco, Wodify, Atombox y Mgic tienen histórico real (las clases pasadas
+  # no se resetean/desaparecen), así que basta una corrida diaria al final del día.
+  # Se quedan agrupados en este mismo servicio (aunque ya no es "solo BUQ") para no
+  # tener que renombrar el servicio en Render y perder sus variables de entorno.
   - type: cron
     name: fitness-scraper-buq
     runtime: python
     buildCommand: pip install -r requirements.txt
     schedule: "0 5 * * *" # 05:00 UTC = 23:00 Ciudad de México (CDMX es UTC-6 todo el año)
-    startCommand: python -m core.runner --platform buq
+    startCommand: sh -c "python -m core.runner --platform buq && python -m core.runner --platform fitco && python -m core.runner --platform wodify && python -m core.runner --platform atombox && python -m core.runner --platform mgic"
     envVars:
       - key: SUPABASE_URL
         sync: false
