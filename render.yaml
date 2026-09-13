@@ -1,6 +1,7 @@
 services:
-  # BUQ, Fitco, Wodify, Atombox, Mgic y EzFit tienen histórico real (las clases pasadas
+  # BUQ, Fitco, Wodify, Mgic y EzFit tienen histórico real (las clases pasadas
   # no se resetean/desaparecen), así que basta una corrida diaria al final del día.
+  # Atombox NO va aquí — confirmado "solo futuro" (ver el otro cron de abajo).
   # Se quedan agrupados en este mismo servicio (aunque ya no es "solo BUQ") para no
   # tener que renombrar el servicio en Render y perder sus variables de entorno.
   - type: cron
@@ -8,7 +9,7 @@ services:
     runtime: python
     buildCommand: pip install -r requirements.txt
     schedule: "0 5 * * *" # 05:00 UTC = 23:00 Ciudad de México (CDMX es UTC-6 todo el año)
-    startCommand: sh -c "python -m core.runner --platform buq && python -m core.runner --platform fitco && python -m core.runner --platform wodify && python -m core.runner --platform atombox && python -m core.runner --platform mgic && python -m core.runner --platform ezfit"
+    startCommand: sh -c "python -m core.runner --platform buq && python -m core.runner --platform fitco && python -m core.runner --platform wodify && python -m core.runner --platform mgic && python -m core.runner --platform ezfit"
     envVars:
       - key: SUPABASE_URL
         sync: false
@@ -25,15 +26,16 @@ services:
       - key: ENVIRONMENT
         value: production
 
-  # Mariana Tek, Síclo y Ollynk solo muestran clases futuras — una vez que la clase empieza,
-  # la ocupación real desaparece (Mariana Tek la resetea a 0, Síclo/Ollynk la quitan de la lista).
+  # Mariana Tek, Síclo, Ollynk y Atombox solo muestran clases futuras — una vez que la
+  # clase empieza, la ocupación real desaparece (Mariana Tek la resetea a 0, los demás la
+  # quitan de la lista — confirmado con Atombox probando una semana ya pasada: viene vacía).
   # Por eso se corren cada 30 min: es la única forma de acercarse a la ocupación final real.
   - type: cron
     name: fitness-scraper-realtime
     runtime: python
     buildCommand: pip install -r requirements.txt
     schedule: "*/30 * * * *"
-    startCommand: sh -c "python -m core.runner --platform marianatek && python -m core.runner --platform siclo && python -m core.runner --platform ollynk"
+    startCommand: sh -c "python -m core.runner --platform marianatek && python -m core.runner --platform siclo && python -m core.runner --platform ollynk && python -m core.runner --platform atombox"
     envVars:
       - key: SUPABASE_URL
         sync: false
