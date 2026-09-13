@@ -2507,6 +2507,14 @@
       "gym_id": 251,
       "branch_id": 576,
       "active": true
+    },
+    {
+      "id": "atombox_dnz_santa_fe",
+      "name": "DNZ Studio Santa Fe",
+      "platform": "atombox",
+      "city": "CDMX",
+      "permalink": "dnz_studio_santa_fe",
+      "active": true
     }
   ]
 }
