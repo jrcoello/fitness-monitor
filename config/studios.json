@@ -409,12 +409,12 @@
     },
     {
       "id": "buq_rise",
-      "name": "RISE",
+      "name": "Rise Hybrid Training",
       "platform": "buq",
-      "city": null,
+      "city": "CDMX",
       "company_id": 189,
       "brand_slug": "rise",
-      "origin": "https://buq.partners",
+      "origin": "https://risehybridtraining.com",
       "locations": [
         308
       ],
@@ -840,13 +840,14 @@
       "id": "buq_athom",
       "name": "Áthom",
       "platform": "buq",
-      "city": null,
+      "city": "CDMX",
       "company_id": 172,
       "brand_slug": "athom",
-      "origin": "https://buq.partners",
+      "origin": "https://athom.com.mx",
       "locations": [
         285
       ],
+      "notes": "reservation_count no es confiable para este estudio: sus clases traen \"not_attendance_list\": true en BUQ, es decir no usan lista de reservas/asistencia. Verificado en agosto y septiembre 2026 (~0.5% ocupación aparente en todas sus clases) — no interpretar como demanda real.",
       "active": true
     },
     {
@@ -1391,10 +1392,10 @@
       "id": "buq_tribu-fitness-center",
       "name": "Tribu Fitness Center",
       "platform": "buq",
-      "city": null,
+      "city": "CDMX",
       "company_id": 117,
       "brand_slug": "tribu-fitness-center",
-      "origin": "https://buq.partners",
+      "origin": "https://tribufitnesscenter.com",
       "locations": [
         205
       ],
@@ -2305,6 +2306,197 @@
       "city": "CDMX",
       "namespace": "commandostudio",
       "location_id": 48948,
+      "active": true
+    },
+    {
+      "id": "buq_house_of_conditioning",
+      "name": "House of Conditioning",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 213,
+      "brand_slug": "hoc",
+      "origin": "https://houseofconditioning.com",
+      "locations": [
+        358
+      ],
+      "active": true
+    },
+    {
+      "id": "ollynk_house_of_wolf",
+      "name": "House of Wolf",
+      "platform": "ollynk",
+      "city": "CDMX",
+      "business_id": "62ac4cb1-acd8-4be6-9e71-3eb197f0356c",
+      "branch_id": "97811ff5-97e4-4fec-a6ea-92f1d3136b8f",
+      "sdk_token": "sdk_Kr5ifOmZrCbsSGFGN1xbkviBivG4uSN7",
+      "active": true
+    },
+    {
+      "id": "ollynk_wolf_terrace",
+      "name": "Wolf Terrace",
+      "platform": "ollynk",
+      "city": "CDMX",
+      "business_id": "babf95c6-7dc7-43a8-9d27-7705d2cb7bbf",
+      "branch_id": "a350bec7-9c25-47ab-87a2-e7b9b48b7dc7",
+      "sdk_token": "sdk_pXraDn41RW3GgR5pvgPjDKEBO8ndD24O",
+      "active": true
+    },
+    {
+      "id": "ollynk_wolf_del_valle",
+      "name": "Wolf Del Valle",
+      "platform": "ollynk",
+      "city": "CDMX",
+      "business_id": "aa43beac-ca91-453f-a8e9-a231747ed105",
+      "branch_id": "87eec6cc-4713-410e-8b00-3a6a071cb34b",
+      "sdk_token": "sdk_sQCBhQOlaf68ugPgAwceAcrXzaCGibt0",
+      "active": true
+    },
+    {
+      "id": "ollynk_wolf_la_punta_pxm",
+      "name": "Wolf La Punta, PXM",
+      "platform": "ollynk",
+      "city": "Punta Mita",
+      "business_id": "cca0d8ca-b775-43f2-a0b8-8082d02a41d8",
+      "branch_id": "cb601dd8-1b14-4245-8d3e-a1cdf12c87f6",
+      "sdk_token": "sdk_pS9SlpAsUaG41rivqpRlHFiOqOGwH1X8",
+      "active": true
+    },
+    {
+      "id": "ollynk_holyb_condesa",
+      "name": "HolyB Condesa",
+      "platform": "ollynk",
+      "city": "CDMX",
+      "business_id": "3cd087a1-700a-4330-81de-5940de6f973d",
+      "branch_id": "46e47ca8-bffe-44c6-9027-cc932b8ed381",
+      "sdk_token": "sdk_gwHsBxGeV5TAE4RWSEPj97HsU1OVBuop",
+      "active": true
+    },
+    {
+      "id": "ollynk_wolf_terrace_polanco",
+      "name": "Wolf Terrace Polanco",
+      "platform": "ollynk",
+      "city": "CDMX",
+      "business_id": "793d85cf-31f6-4ed4-8c63-4971c58c5efe",
+      "branch_id": "ab5004c0-af97-49a8-ac1d-35ba9acd4c3a",
+      "sdk_token": "sdk_cCDbzzJXgpkqthbCsKLQ0P4Cm9nMFum0",
+      "active": true
+    },
+    {
+      "id": "fitco_strngr",
+      "name": "STRNGR",
+      "platform": "fitco",
+      "city": "CDMX",
+      "establishment_id": 3011,
+      "active": true
+    },
+    {
+      "id": "wodify_inpeak_condesa",
+      "name": "Inpeak Condesa",
+      "platform": "wodify",
+      "city": "CDMX",
+      "customer_id": 11178,
+      "location_id": 11228,
+      "active": true
+    },
+    {
+      "id": "wodify_inpeak_coyoacan",
+      "name": "Inpeak Coyoacán",
+      "platform": "wodify",
+      "city": "CDMX",
+      "customer_id": 11178,
+      "location_id": 11495,
+      "active": true
+    },
+    {
+      "id": "wodify_adamant",
+      "name": "Adamant Fitness & Wellness Club",
+      "platform": "wodify",
+      "city": "CDMX",
+      "customer_id": 9444,
+      "location_id": 9541,
+      "active": true
+    },
+    {
+      "id": "ollynk_impulso",
+      "name": "Impulso Performance Center",
+      "platform": "ollynk",
+      "city": "Estado de México",
+      "business_id": "de83afa1-7867-48b4-903a-6eaa4cb5a3df",
+      "branch_id": "50e0a87d-ad81-4a49-97a7-ae1c6c65dc75",
+      "sdk_token": "sdk_4079nwu0MKzHtPzRZ8ZArVC0Kvi7xTFa",
+      "active": true
+    },
+    {
+      "id": "atombox_haus",
+      "name": "Haus Studio CDMX",
+      "platform": "atombox",
+      "city": "Estado de México",
+      "permalink": "haus_studio_cdmx",
+      "active": true
+    },
+    {
+      "id": "wodify_rakun",
+      "name": "Rakun Training Club",
+      "platform": "wodify",
+      "city": "CDMX",
+      "customer_id": 206,
+      "location_id": 143,
+      "active": true
+    },
+    {
+      "id": "ollynk_eight_hyrox",
+      "name": "Eight Hybrid",
+      "platform": "ollynk",
+      "city": "CDMX",
+      "business_id": "8d7241aa-f72d-451f-8ae2-9e5990455e8f",
+      "branch_id": "6ba82024-3983-4915-8e3b-4a31071e6d39",
+      "sdk_token": "sdk_JVFIYRrtZA8Vs5aIAePPkyQhkYIv10tr",
+      "active": true
+    },
+    {
+      "id": "fitco_nextfit_bosques",
+      "name": "Nextfit Gym Bosques",
+      "platform": "fitco",
+      "city": "CDMX",
+      "instagram": "https://www.instagram.com/nextfit_bosques/",
+      "origin": "https://nexfit.fitcolatam.com",
+      "notes": "Estudio real (Av. Stim 1320, Lomas del Chamizal — clases afiliadas a HYROX, ~5.6km de Santa Fe), pero su tenant en Fitco está roto: /auth/{domain}/login-info regresa [] y /establishments/domains/web/{domain}/byDomain regresa {\"msg\":\"GLOBAL.ERROR_DB\"} — error real del backend del proveedor, no un dominio mal escrito. IG con solo 54 seguidores (2026-09-12), probablemente negocio muy nuevo con setup incompleto. Sin establishment_id todavía — revisar de nuevo en unas semanas por si lo arreglan.",
+      "active": false
+    },
+    {
+      "id": "mgic_fdv_fithub_santa_fe",
+      "name": "FDV Sculpt Method FitHub Santa Fe",
+      "platform": "mgic",
+      "city": "CDMX",
+      "tenant": "fdvsculptmethod",
+      "location_name": "FitHub Santa Fe",
+      "active": true
+    },
+    {
+      "id": "mgic_fdv_lomas",
+      "name": "FDV Sculpt Method Lomas",
+      "platform": "mgic",
+      "city": "CDMX",
+      "tenant": "fdvsculptmethod",
+      "location_name": "Lomas",
+      "active": true
+    },
+    {
+      "id": "mgic_fdv_arcos_bosques",
+      "name": "FDV Sculpt Method Arcos Bosques",
+      "platform": "mgic",
+      "city": "CDMX",
+      "tenant": "fdvsculptmethod",
+      "location_name": "Arcos Bosques",
+      "active": true
+    },
+    {
+      "id": "mgic_fdv_interlomas",
+      "name": "FDV Sculpt Method Interlomas",
+      "platform": "mgic",
+      "city": "CDMX",
+      "tenant": "fdvsculptmethod",
+      "location_name": "Interlomas",
       "active": true
     }
   ]

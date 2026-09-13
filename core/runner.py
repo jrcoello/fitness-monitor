@@ -4,10 +4,14 @@ from pathlib import Path
 
 from core.supabase_client import upsert_snapshots, upsert_studios
 from core.token_manager import get_buq_token, get_siclo_token
+from scrapers.atombox import scrape_atombox
 from scrapers.buq import scrape_buq
+from scrapers.fitco import scrape_fitco
 from scrapers.marianatek import scrape_marianatek
+from scrapers.mgic import scrape_mgic
 from scrapers.ollynk import scrape_ollynk
 from scrapers.siclo import scrape_siclo
+from scrapers.wodify import scrape_wodify
 
 STUDIOS_PATH = Path(__file__).resolve().parent.parent / "config" / "studios.json"
 
@@ -58,6 +62,14 @@ def run(platform: str | None = None, studio_id: str | None = None, dry_run: bool
                 snapshots = scrape_siclo(studio, siclo_token)
             elif studio["platform"] == "ollynk":
                 snapshots = scrape_ollynk(studio)
+            elif studio["platform"] == "fitco":
+                snapshots = scrape_fitco(studio)
+            elif studio["platform"] == "wodify":
+                snapshots = scrape_wodify(studio)
+            elif studio["platform"] == "atombox":
+                snapshots = scrape_atombox(studio)
+            elif studio["platform"] == "mgic":
+                snapshots = scrape_mgic(studio)
             else:
                 print(f"{studio['name']}: plataforma desconocida '{studio['platform']}'")
                 continue
@@ -75,7 +87,10 @@ def run(platform: str | None = None, studio_id: str | None = None, dry_run: bool
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Fitness Monitor Engine — runner")
-    parser.add_argument("--platform", choices=["buq", "marianatek", "siclo", "ollynk"])
+    parser.add_argument(
+        "--platform",
+        choices=["buq", "marianatek", "siclo", "ollynk", "fitco", "wodify", "atombox", "mgic"],
+    )
     parser.add_argument("--studio")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()

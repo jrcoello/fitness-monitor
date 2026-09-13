@@ -1,22 +1,31 @@
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 from zoneinfo import ZoneInfo
 
 import requests
 
 OLLYNK_API_BASE = "https://admin.ollynk.io/api"
 MEXICO_TZ = ZoneInfo("America/Mexico_City")
+HISTORY_DAYS = 7
 
 
 def scrape_ollynk(studio: dict) -> list[dict]:
     scraped_at = datetime.now(tz=MEXICO_TZ)
     scraped_date = scraped_at.date().isoformat()
+    today = scraped_at.date()
 
     class_names = _fetch_class_names(studio)
-    sessions = _fetch_weekly_schedule(studio, scraped_at.date())
+
+    # /schedules/weekly solo acepta un startDate y siempre regresa ~7 días a partir de
+    # ahí (sin parámetro de fin) — para cubrir pasado y futuro se piden dos ventanas y
+    # se deduplica por id de sesión.
+    sessions_by_id = {}
+    for start in (today - timedelta(days=HISTORY_DAYS), today):
+        for session in _fetch_weekly_schedule(studio, start):
+            sessions_by_id[session["id"]] = session
 
     return [
         _map_session(studio, session, class_names, scraped_at, scraped_date)
-        for session in sessions
+        for session in sessions_by_id.values()
     ]
 
 
