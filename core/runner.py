@@ -6,6 +6,7 @@ from core.supabase_client import upsert_snapshots, upsert_studios
 from core.token_manager import get_buq_token, get_siclo_token
 from scrapers.atombox import scrape_atombox
 from scrapers.buq import scrape_buq
+from scrapers.ezfit import scrape_ezfit
 from scrapers.fitco import scrape_fitco
 from scrapers.marianatek import scrape_marianatek
 from scrapers.mgic import scrape_mgic
@@ -70,6 +71,8 @@ def run(platform: str | None = None, studio_id: str | None = None, dry_run: bool
                 snapshots = scrape_atombox(studio)
             elif studio["platform"] == "mgic":
                 snapshots = scrape_mgic(studio)
+            elif studio["platform"] == "ezfit":
+                snapshots = scrape_ezfit(studio)
             else:
                 print(f"{studio['name']}: plataforma desconocida '{studio['platform']}'")
                 continue
@@ -89,7 +92,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Fitness Monitor Engine — runner")
     parser.add_argument(
         "--platform",
-        choices=["buq", "marianatek", "siclo", "ollynk", "fitco", "wodify", "atombox", "mgic"],
+        choices=["buq", "marianatek", "siclo", "ollynk", "fitco", "wodify", "atombox", "mgic", "ezfit"],
     )
     parser.add_argument("--studio")
     parser.add_argument("--dry-run", action="store_true")

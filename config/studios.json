@@ -2498,6 +2498,15 @@
       "tenant": "fdvsculptmethod",
       "location_name": "Interlomas",
       "active": true
+    },
+    {
+      "id": "ezfit_beatforce_santa_fe",
+      "name": "Beatforce Santa Fe",
+      "platform": "ezfit",
+      "city": "CDMX",
+      "gym_id": 251,
+      "branch_id": 576,
+      "active": true
     }
   ]
 }
