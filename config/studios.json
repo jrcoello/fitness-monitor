@@ -1,6 +1,16 @@
 {
   "studios": [
     {
+      "id": "sessions_studios_madrid",
+      "name": "Sessions Studios Salamanca",
+      "platform": "marianatek",
+      "city": "Madrid, España",
+      "namespace": "sessionstudios",
+      "location_id": 48717,
+      "notes": "Único estudio fuera de México en el sistema — el usuario pidió agregarlo explícitamente aunque el alcance del proyecto es fitness boutique en México (ver CLAUDE.md). Namespace encontrado en el HTML de sessions-studios.com/horarios/ (var TENANT_NAME = 'sessionstudios'), el iframe público no lo exponía por un challenge de Cloudflare.",
+      "active": true
+    },
+    {
       "id": "casa_onze_cdmx",
       "name": "Casa Onze CDMX",
       "platform": "buq",
@@ -2133,6 +2143,7 @@
       "business_id": "34de02b4-a04b-4d3d-830c-00da4b3bec4a",
       "branch_id": "08e0ccdc-d38a-4665-9cc4-1aab770f7471",
       "sdk_token": "sdk_HjZA3vtyPaRz40SChcxqbu5pgJ2SQSwg",
+      "notes": "Sucursal temporal, solo abre en algunas ocasiones (user-confirmed 2026-09-13) — 0 filas en Supabase es esperado, no un bug del scraper. El endpoint (filter-list y schedules/weekly) responde 200 OK sin error incluso sin horario publicado.",
       "active": true
     },
     {
