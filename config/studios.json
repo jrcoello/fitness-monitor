@@ -1909,7 +1909,8 @@
       "locations": [
         113
       ],
-      "active": true
+      "notes": "Desactivado: la cuenta BUQ de ElParque nunca publicó clases (0 filas históricas). El Parque reserva por Ollynk — ver ollynk_elparque_* (4 sedes, incl. Lomas).",
+      "active": false
     },
     {
       "id": "buq_el-parque-pedregal",
@@ -1922,7 +1923,8 @@
       "locations": [
         112
       ],
-      "active": true
+      "notes": "Desactivado: la cuenta BUQ de ElParque nunca publicó clases (0 filas históricas). El Parque reserva por Ollynk — ver ollynk_elparque_* (4 sedes, incl. Lomas).",
+      "active": false
     },
     {
       "id": "buq_el-parque-interlomas",
@@ -1935,7 +1937,8 @@
       "locations": [
         111
       ],
-      "active": true
+      "notes": "Desactivado: la cuenta BUQ de ElParque nunca publicó clases (0 filas históricas). El Parque reserva por Ollynk — ver ollynk_elparque_* (4 sedes, incl. Lomas).",
+      "active": false
     },
     {
       "id": "buq_rila-studio",
@@ -2562,6 +2565,46 @@
       "business_id": "8d7241aa-f72d-451f-8ae2-9e5990455e8f",
       "branch_id": "6ba82024-3983-4915-8e3b-4a31071e6d39",
       "sdk_token": "sdk_JVFIYRrtZA8Vs5aIAePPkyQhkYIv10tr",
+      "active": true
+    },
+    {
+      "id": "ollynk_elparque_polanco",
+      "name": "ElParque Polanco",
+      "platform": "ollynk",
+      "city": "CDMX",
+      "business_id": "2d0103db-168e-4c38-802f-19337a5d09a4",
+      "branch_id": "91a4209b-b1e0-4775-9620-44f4d515c342",
+      "sdk_token": "sdk_iVUkeh8lENZsxW4cVyuEI2e4yZG7HVf9",
+      "active": true
+    },
+    {
+      "id": "ollynk_elparque_pedregal",
+      "name": "ElParque Pedregal",
+      "platform": "ollynk",
+      "city": "CDMX",
+      "business_id": "78c01e79-ebb3-4063-af8b-1e33e40ac2eb",
+      "branch_id": "376715b1-fb57-430d-8568-d060f62c624c",
+      "sdk_token": "sdk_TjjesQZBjaRzqlNBOM7qacR8sSeSBYPE",
+      "active": true
+    },
+    {
+      "id": "ollynk_elparque_arcos_bosques",
+      "name": "ElParque Arcos Bosques",
+      "platform": "ollynk",
+      "city": "CDMX",
+      "business_id": "150f3329-82fa-458a-a4a2-0d88d79acd6b",
+      "branch_id": "34854d3b-37da-46da-a353-143ad35fbcd0",
+      "sdk_token": "sdk_SQYrlOVyzwJll7jkwOIftVTClGT6PvU6",
+      "active": true
+    },
+    {
+      "id": "ollynk_elparque_lomas",
+      "name": "ElParque Lomas",
+      "platform": "ollynk",
+      "city": "CDMX",
+      "business_id": "43fc5829-e9ed-4fee-a1f9-d2bcf54ab5aa",
+      "branch_id": "c7fff5c1-0d0e-4e29-a301-a7335c39d399",
+      "sdk_token": "sdk_zpScP4a6SRnG5gFwEPXJwUZxzQfsCSRj",
       "active": true
     },
     {
