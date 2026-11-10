@@ -531,6 +531,20 @@
       "active": true
     },
     {
+      "id": "buq_renegade",
+      "name": "Renegade",
+      "platform": "buq",
+      "city": "CDMX",
+      "company_id": 194,
+      "brand_slug": "cdmx-1",
+      "origin": "https://renegadestudio.mx",
+      "locations": [
+        318
+      ],
+      "notes": "Estudio de cycling dentro de Umaah Haus (location 318). El brand_slug en BUQ es \"cdmx-1\" aunque la marca se llama Renegade (brand id 214).",
+      "active": true
+    },
+    {
       "id": "buq_boden",
       "name": "Boden",
       "platform": "buq",
